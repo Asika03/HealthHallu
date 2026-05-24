@@ -1,0 +1,117 @@
+date,source,region,indicator,value,unit,reference_year,data_type
+2026-05-13,disease.sh,Global,global_total_cases,704753890.0,count,2025,
+2026-05-13,disease.sh,Global,global_total_deaths,7010681.0,count,2025,
+2026-05-13,disease.sh,Global,global_active_cases,22123398.0,count,2025,
+2026-05-13,disease.sh,Global,global_recovered,675619811.0,count,2025,
+2026-05-13,disease.sh,Global,global_critical_cases,34794.0,count,2025,
+2026-05-13,disease.sh,India,total_cases,45035393.0,count,2025,
+2026-05-13,disease.sh,India,total_deaths,533570.0,count,2025,
+2026-05-13,disease.sh,India,active_cases,44501823.0,count,2025,
+2026-05-13,disease.sh,India,recovered,0.0,count,2025,
+2026-05-13,disease.sh,India,cases_per_million,32016.0,count,2025,
+2026-05-13,disease.sh,India,deaths_per_million,379.0,count,2025,
+2026-05-13,disease.sh,India,tests_per_million,665334.0,count,2025,
+2026-05-13,disease.sh,India,critical_cases,0.0,count,2025,
+2026-05-13,disease.sh,USA,total_cases,111820082.0,count,2025,
+2026-05-13,disease.sh,USA,total_deaths,1219487.0,count,2025,
+2026-05-13,disease.sh,USA,active_cases,786167.0,count,2025,
+2026-05-13,disease.sh,USA,cases_per_million,333985.0,count,2025,
+2026-05-13,disease.sh,India,total_cases,45035393.0,count,2025,
+2026-05-13,disease.sh,India,total_deaths,533570.0,count,2025,
+2026-05-13,disease.sh,India,active_cases,44501823.0,count,2025,
+2026-05-13,disease.sh,India,cases_per_million,32016.0,count,2025,
+2026-05-13,disease.sh,France,total_cases,40138560.0,count,2025,
+2026-05-13,disease.sh,France,total_deaths,167642.0,count,2025,
+2026-05-13,disease.sh,France,active_cases,0.0,count,2025,
+2026-05-13,disease.sh,France,cases_per_million,612013.0,count,2025,
+2026-05-13,disease.sh,Germany,total_cases,38828995.0,count,2025,
+2026-05-13,disease.sh,Germany,total_deaths,183027.0,count,2025,
+2026-05-13,disease.sh,Germany,active_cases,405368.0,count,2025,
+2026-05-13,disease.sh,Germany,cases_per_million,462891.0,count,2025,
+2026-05-13,disease.sh,Brazil,total_cases,38743918.0,count,2025,
+2026-05-13,disease.sh,Brazil,total_deaths,711380.0,count,2025,
+2026-05-13,disease.sh,Brazil,active_cases,1783377.0,count,2025,
+2026-05-13,disease.sh,Brazil,cases_per_million,179908.0,count,2025,
+2026-05-13,disease.sh,S. Korea,total_cases,34571873.0,count,2025,
+2026-05-13,disease.sh,S. Korea,total_deaths,35934.0,count,2025,
+2026-05-13,disease.sh,S. Korea,active_cases,0.0,count,2025,
+2026-05-13,disease.sh,S. Korea,cases_per_million,673523.0,count,2025,
+2026-05-13,disease.sh,Japan,total_cases,33803572.0,count,2025,
+2026-05-13,disease.sh,Japan,total_deaths,74694.0,count,2025,
+2026-05-13,disease.sh,Japan,active_cases,33728878.0,count,2025,
+2026-05-13,disease.sh,Japan,cases_per_million,269169.0,count,2025,
+2026-05-13,disease.sh,Italy,total_cases,26723249.0,count,2025,
+2026-05-13,disease.sh,Italy,total_deaths,196487.0,count,2025,
+2026-05-13,disease.sh,Italy,active_cases,165544.0,count,2025,
+2026-05-13,disease.sh,Italy,cases_per_million,443445.0,count,2025,
+2026-05-13,disease.sh,UK,total_cases,24910387.0,count,2025,
+2026-05-13,disease.sh,UK,total_deaths,232112.0,count,2025,
+2026-05-13,disease.sh,UK,active_cases,0.0,count,2025,
+2026-05-13,disease.sh,UK,cases_per_million,363666.0,count,2025,
+2026-05-13,disease.sh,Russia,total_cases,24124215.0,count,2025,
+2026-05-13,disease.sh,Russia,total_deaths,402756.0,count,2025,
+2026-05-13,disease.sh,Russia,active_cases,175641.0,count,2025,
+2026-05-13,disease.sh,Russia,cases_per_million,165454.0,count,2025,
+2026-05-13,WHO GHO,India,life_expectancy_both,67.31,WHO standard,2021,
+2026-05-13,WHO GHO,India,life_expectancy_male,58.15,WHO standard,2021,
+2026-05-13,WHO GHO,India,life_expectancy_female,11.87,WHO standard,2021,
+2026-05-13,WHO GHO,India,infant_mortality_rate,80.48,WHO standard,2023,
+2026-05-13,WHO GHO,India,maternal_mortality_ratio,27.82,WHO standard,2023,
+2026-05-13,WHO GHO,China,life_expectancy_both,80.52,WHO standard,2021,
+2026-05-13,WHO GHO,USA,life_expectancy_both,76.37,WHO standard,2021,
+2026-05-13,WHO GHO,Brazil,life_expectancy_both,69.04,WHO standard,2021,
+2026-05-13,WHO GHO,UK,life_expectancy_both,80.1,WHO standard,2021,
+2026-05-13,WHO GHO,Pakistan,life_expectancy_both,65.99,WHO standard,2021,
+2026-05-13,WHO GHO,Bangladesh,life_expectancy_both,73.1,WHO standard,2021,
+2026-05-13,WHO GHO,China,infant_mortality_rate,16.25,WHO standard,2023,
+2026-05-13,WHO GHO,USA,infant_mortality_rate,16.63,WHO standard,2023,
+2026-05-13,WHO GHO,Brazil,infant_mortality_rate,66.91,WHO standard,2023,
+2026-05-13,WHO GHO,Bangladesh,maternal_mortality_ratio,32.63,WHO standard,2023,
+2026-05-13,WHO Historical,India,life_expectancy_2019,69.7,years,2019,historical
+2026-05-13,WHO Historical,India,life_expectancy_2020,70.19,years,2020,historical
+2026-05-13,WB Historical,India,infant_mortality_2019,30.0,per 1000,2019,historical
+2026-05-13,WB Historical,India,infant_mortality_2020,28.0,per 1000,2020,historical
+2026-05-13,WB Historical,India,infant_mortality_2021,25.5,per 1000,2021,historical
+2026-05-13,WB Historical,India,hospital_beds_2017,0.5,per 1000,2017,historical
+2026-05-13,WB Historical,India,measles_vax_2019,91.0,percentage,2019,historical
+2026-05-13,WB Historical,India,measles_vax_2020,87.0,percentage,2020,historical
+2026-05-13,WB Historical,India,measles_vax_2021,89.0,percentage,2021,historical
+2026-05-13,WB Historical,India,tb_incidence_2019,193.0,per 100k,2019,historical
+2026-05-13,WB Historical,India,tb_incidence_2020,188.0,per 100k,2020,historical
+2026-05-13,WHO Historical,China,life_expectancy_2019,77.4,years,2019,historical
+2026-05-13,WHO Historical,China,life_expectancy_2020,77.93,years,2020,historical
+2026-05-13,WHO Historical,USA,life_expectancy_2019,78.9,years,2019,historical
+2026-05-13,WHO Historical,USA,life_expectancy_2020,77.0,years,2020,historical
+2026-05-13,WHO Historical,Global,covid_deaths_2020,1813188.0,deaths,2020,historical
+2026-05-13,WHO Historical,Global,covid_deaths_2021,3536000.0,deaths,2021,historical
+2026-05-13,WHO Historical,India,covid_cases_2021,34855802.0,cases,2021,historical
+2026-05-13,WHO Historical,India,covid_deaths_2021,481486.0,deaths,2021,historical
+2026-05-13,WB Historical,Brazil,life_expectancy_2019,75.9,years,2019,historical
+2026-05-13,WB Historical,UK,life_expectancy_2019,81.3,years,2019,historical
+2026-05-13,WB Historical,Pakistan,life_expectancy_2019,67.3,years,2019,historical
+2026-05-13,WB Historical,China,hospital_beds_2019,4.34,per 1000,2019,historical
+2026-05-13,WB Historical,USA,hospital_beds_2019,2.77,per 1000,2019,historical
+2026-05-13,WB Historical,UK,hospital_beds_2019,2.5,per 1000,2019,historical
+2026-05-13,World Bank,India,hospital_beds_per_1000,1.59,WB standard,2021,
+2026-05-13,World Bank,India,physicians_per_1000,0.723,WB standard,2020,
+2026-05-13,World Bank,India,health_expenditure_pct_gdp,3.339,WB standard,2023,
+2026-05-13,World Bank,India,infant_mortality_per_1000,23.3,WB standard,2024,
+2026-05-13,World Bank,India,under5_mortality_per_1000,26.6,WB standard,2024,
+2026-05-13,World Bank,India,life_expectancy_wb,72.235,WB standard,2024,
+2026-05-13,World Bank,India,measles_vaccination_pct,97.0,WB standard,2024,
+2026-05-13,World Bank,India,dpt_vaccination_pct,94.0,WB standard,2024,
+2026-05-13,World Bank,India,tb_incidence_per_100k,187.0,WB standard,2024,
+2026-05-13,World Bank,China,hospital_beds_per_1000,5.63,WB standard,2023,
+2026-05-13,World Bank,China,life_expectancy_wb,78.017,WB standard,2024,
+2026-05-13,World Bank,China,measles_vaccination_pct,95.0,WB standard,2024,
+2026-05-13,World Bank,USA,hospital_beds_per_1000,2.68,WB standard,2022,
+2026-05-13,World Bank,USA,life_expectancy_wb,78.89,WB standard,2024,
+2026-05-13,World Bank,USA,health_expenditure_pct_gdp,16.694,WB standard,2023,
+2026-05-13,World Bank,Brazil,hospital_beds_per_1000,2.52,WB standard,2021,
+2026-05-13,World Bank,Brazil,life_expectancy_wb,76.023,WB standard,2024,
+2026-05-13,World Bank,UK,hospital_beds_per_1000,2.42,WB standard,2022,
+2026-05-13,World Bank,UK,life_expectancy_wb,81.387,WB standard,2024,
+2026-05-13,World Bank,Pakistan,life_expectancy_wb,67.799,WB standard,2024,
+2026-05-13,World Bank,Pakistan,hospital_beds_per_1000,0.63,WB standard,2020,
+2026-05-13,World Bank,Bangladesh,life_expectancy_wb,74.93,WB standard,2024,
+2026-05-13,World Bank,Bangladesh,measles_vaccination_pct,96.0,WB standard,2024,

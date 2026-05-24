@@ -1,0 +1,1641 @@
+date,source,region,indicator,value,unit,reference_year,data_type
+2026-05-18,WHO GHO,India,life_expectancy_both,64.18,WHO standard,2005,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,67.33,WHO standard,2006,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,67.67,WHO standard,2007,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,68.13,WHO standard,2008,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,68.81,WHO standard,2009,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,65.77,WHO standard,2010,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,69.76,WHO standard,2011,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,68.23,WHO standard,2012,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,70.2,WHO standard,2013,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,67.35,WHO standard,2014,historical
+2026-05-18,WHO GHO,India,life_expectancy_both,69.38,WHO standard,2015,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,72.44,WHO standard,2005,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,73.29,WHO standard,2006,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,73.84,WHO standard,2007,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,74.0,WHO standard,2008,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,71.74,WHO standard,2009,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,74.65,WHO standard,2010,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,75.04,WHO standard,2011,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,72.7,WHO standard,2012,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,75.84,WHO standard,2013,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,79.41,WHO standard,2014,historical
+2026-05-18,WHO GHO,China,life_expectancy_both,76.51,WHO standard,2015,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,75.01,WHO standard,2005,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,77.68,WHO standard,2006,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,77.94,WHO standard,2007,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,80.28,WHO standard,2008,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,78.42,WHO standard,2009,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,78.61,WHO standard,2010,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,78.65,WHO standard,2011,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,78.77,WHO standard,2012,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,76.61,WHO standard,2013,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,76.67,WHO standard,2014,historical
+2026-05-18,WHO GHO,USA,life_expectancy_both,76.48,WHO standard,2015,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,76.62,WHO standard,2005,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,73.33,WHO standard,2006,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,73.58,WHO standard,2007,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,77.2,WHO standard,2008,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,73.84,WHO standard,2009,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,77.43,WHO standard,2010,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,74.02,WHO standard,2011,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,77.78,WHO standard,2012,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,77.92,WHO standard,2013,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,74.64,WHO standard,2014,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_both,74.71,WHO standard,2015,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,76.81,WHO standard,2005,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,77.12,WHO standard,2006,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,81.4,WHO standard,2007,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,77.55,WHO standard,2008,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,80.03,WHO standard,2009,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,78.34,WHO standard,2010,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,80.64,WHO standard,2011,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,82.34,WHO standard,2012,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,80.69,WHO standard,2013,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,82.65,WHO standard,2014,historical
+2026-05-18,WHO GHO,UK,life_expectancy_both,78.93,WHO standard,2015,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,62.53,WHO standard,2005,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,63.07,WHO standard,2006,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,64.16,WHO standard,2007,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,64.47,WHO standard,2008,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,63.92,WHO standard,2009,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,63.32,WHO standard,2010,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,65.37,WHO standard,2011,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,65.66,WHO standard,2012,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,65.11,WHO standard,2013,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,66.23,WHO standard,2014,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_both,66.54,WHO standard,2015,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,69.87,WHO standard,2005,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,68.09,WHO standard,2006,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,68.43,WHO standard,2007,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,69.03,WHO standard,2008,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,69.6,WHO standard,2009,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,71.87,WHO standard,2010,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,71.08,WHO standard,2011,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,72.09,WHO standard,2012,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,71.51,WHO standard,2013,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,74.01,WHO standard,2014,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_both,72.07,WHO standard,2015,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,58.23,WHO standard,2005,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,57.55,WHO standard,2006,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,56.88,WHO standard,2007,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,60.11,WHO standard,2008,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,57.95,WHO standard,2009,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,58.42,WHO standard,2010,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,60.2,WHO standard,2011,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,59.23,WHO standard,2012,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,61.04,WHO standard,2013,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,59.8,WHO standard,2014,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_both,60.2,WHO standard,2015,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,50.4,WHO standard,2005,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,50.36,WHO standard,2006,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,52.91,WHO standard,2007,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,53.91,WHO standard,2008,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,55.27,WHO standard,2009,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,54.64,WHO standard,2010,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,59.1,WHO standard,2011,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,57.78,WHO standard,2012,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,64.92,WHO standard,2013,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,59.54,WHO standard,2014,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_both,66.18,WHO standard,2015,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,74.93,WHO standard,2005,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,77.71,WHO standard,2006,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,75.52,WHO standard,2007,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,77.63,WHO standard,2008,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,77.74,WHO standard,2009,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,77.66,WHO standard,2010,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,72.66,WHO standard,2011,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,72.92,WHO standard,2012,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,78.57,WHO standard,2013,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,73.32,WHO standard,2014,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_both,75.94,WHO standard,2015,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,56.0,WHO standard,2005,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,56.34,WHO standard,2006,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,56.51,WHO standard,2007,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,57.02,WHO standard,2008,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,57.86,WHO standard,2009,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,58.31,WHO standard,2010,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,57.85,WHO standard,2011,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,58.57,WHO standard,2012,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,58.85,WHO standard,2013,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,59.48,WHO standard,2014,historical
+2026-05-18,WHO GHO,India,life_expectancy_male,59.78,WHO standard,2015,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,63.32,WHO standard,2005,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,63.97,WHO standard,2006,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,65.75,WHO standard,2007,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,65.92,WHO standard,2008,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,64.82,WHO standard,2009,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,65.03,WHO standard,2010,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,66.82,WHO standard,2011,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,68.94,WHO standard,2012,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,65.88,WHO standard,2013,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,69.49,WHO standard,2014,historical
+2026-05-18,WHO GHO,China,life_expectancy_male,69.73,WHO standard,2015,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,65.81,WHO standard,2005,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,67.07,WHO standard,2006,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,67.21,WHO standard,2007,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,66.22,WHO standard,2008,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,65.42,WHO standard,2009,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,65.56,WHO standard,2010,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,65.6,WHO standard,2011,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,65.65,WHO standard,2012,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,66.53,WHO standard,2013,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,66.5,WHO standard,2014,historical
+2026-05-18,WHO GHO,USA,life_expectancy_male,67.21,WHO standard,2015,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,63.8,WHO standard,2005,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,62.33,WHO standard,2006,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,64.29,WHO standard,2007,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,64.54,WHO standard,2008,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,63.02,WHO standard,2009,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,64.91,WHO standard,2010,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,64.99,WHO standard,2011,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,61.73,WHO standard,2012,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,63.63,WHO standard,2013,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,63.82,WHO standard,2014,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_male,65.65,WHO standard,2015,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,68.73,WHO standard,2005,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,68.31,WHO standard,2006,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,69.02,WHO standard,2007,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,69.04,WHO standard,2008,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,68.27,WHO standard,2009,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,69.01,WHO standard,2010,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,68.82,WHO standard,2011,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,68.92,WHO standard,2012,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,69.35,WHO standard,2013,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,69.52,WHO standard,2014,historical
+2026-05-18,WHO GHO,UK,life_expectancy_male,69.33,WHO standard,2015,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,53.27,WHO standard,2005,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,54.57,WHO standard,2006,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,55.07,WHO standard,2007,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,54.82,WHO standard,2008,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,55.06,WHO standard,2009,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,55.61,WHO standard,2010,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,55.55,WHO standard,2011,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,55.79,WHO standard,2012,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,56.45,WHO standard,2013,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,56.48,WHO standard,2014,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_male,56.74,WHO standard,2015,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,59.25,WHO standard,2005,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,58.65,WHO standard,2006,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,58.95,WHO standard,2007,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,60.37,WHO standard,2008,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,60.76,WHO standard,2009,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,60.76,WHO standard,2010,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,61.52,WHO standard,2011,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,62.52,WHO standard,2012,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,62.97,WHO standard,2013,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,62.7,WHO standard,2014,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_male,63.22,WHO standard,2015,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,49.0,WHO standard,2005,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,49.77,WHO standard,2006,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,50.35,WHO standard,2007,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,50.7,WHO standard,2008,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,51.41,WHO standard,2009,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,51.86,WHO standard,2010,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,52.04,WHO standard,2011,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,52.86,WHO standard,2012,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,52.69,WHO standard,2013,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,53.66,WHO standard,2014,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_male,53.6,WHO standard,2015,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,45.39,WHO standard,2005,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,45.21,WHO standard,2006,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,45.14,WHO standard,2007,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,46.67,WHO standard,2008,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,46.82,WHO standard,2009,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,49.24,WHO standard,2010,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,50.84,WHO standard,2011,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,53.4,WHO standard,2012,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,54.62,WHO standard,2013,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,53.84,WHO standard,2014,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_male,52.61,WHO standard,2015,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,63.61,WHO standard,2005,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,64.98,WHO standard,2006,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,64.0,WHO standard,2007,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,63.51,WHO standard,2008,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,66.06,WHO standard,2009,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,63.27,WHO standard,2010,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,66.41,WHO standard,2011,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,65.18,WHO standard,2012,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,64.12,WHO standard,2013,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,66.7,WHO standard,2014,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_male,66.77,WHO standard,2015,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,12.58,WHO standard,2005,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,12.68,WHO standard,2006,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,12.53,WHO standard,2007,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,12.91,WHO standard,2008,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,13.54,WHO standard,2009,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,12.7,WHO standard,2010,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,12.72,WHO standard,2011,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,13.59,WHO standard,2012,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,13.29,WHO standard,2013,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,12.95,WHO standard,2014,historical
+2026-05-18,WHO GHO,India,life_expectancy_female,13.11,WHO standard,2015,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,13.36,WHO standard,2005,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,15.63,WHO standard,2006,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,15.91,WHO standard,2007,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,13.94,WHO standard,2008,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,13.94,WHO standard,2009,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,15.01,WHO standard,2010,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,16.33,WHO standard,2011,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,14.2,WHO standard,2012,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,16.78,WHO standard,2013,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,15.66,WHO standard,2014,historical
+2026-05-18,WHO GHO,China,life_expectancy_female,15.8,WHO standard,2015,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,16.89,WHO standard,2005,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,17.08,WHO standard,2006,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,15.59,WHO standard,2007,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,17.18,WHO standard,2008,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,15.8,WHO standard,2009,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,15.81,WHO standard,2010,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,15.86,WHO standard,2011,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,17.44,WHO standard,2012,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,17.41,WHO standard,2013,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,15.88,WHO standard,2014,historical
+2026-05-18,WHO GHO,USA,life_expectancy_female,17.34,WHO standard,2015,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,14.07,WHO standard,2005,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,15.98,WHO standard,2006,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,16.09,WHO standard,2007,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,14.2,WHO standard,2008,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,15.34,WHO standard,2009,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,14.26,WHO standard,2010,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,15.34,WHO standard,2011,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,15.5,WHO standard,2012,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,16.49,WHO standard,2013,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,15.64,WHO standard,2014,historical
+2026-05-18,WHO GHO,Brazil,life_expectancy_female,15.61,WHO standard,2015,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,16.11,WHO standard,2005,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.95,WHO standard,2006,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.28,WHO standard,2007,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,18.02,WHO standard,2008,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,16.84,WHO standard,2009,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.69,WHO standard,2010,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.89,WHO standard,2011,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.16,WHO standard,2012,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.85,WHO standard,2013,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.36,WHO standard,2014,historical
+2026-05-18,WHO GHO,UK,life_expectancy_female,17.84,WHO standard,2015,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.14,WHO standard,2005,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.52,WHO standard,2006,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.53,WHO standard,2007,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.49,WHO standard,2008,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.79,WHO standard,2009,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.6,WHO standard,2010,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.81,WHO standard,2011,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.87,WHO standard,2012,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.77,WHO standard,2013,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.99,WHO standard,2014,historical
+2026-05-18,WHO GHO,Pakistan,life_expectancy_female,12.89,WHO standard,2015,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,13.11,WHO standard,2005,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,13.08,WHO standard,2006,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,13.11,WHO standard,2007,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,13.82,WHO standard,2008,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,13.99,WHO standard,2009,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,14.09,WHO standard,2010,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,14.75,WHO standard,2011,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,15.17,WHO standard,2012,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,15.33,WHO standard,2013,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,15.29,WHO standard,2014,historical
+2026-05-18,WHO GHO,Bangladesh,life_expectancy_female,15.4,WHO standard,2015,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,12.84,WHO standard,2005,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,12.95,WHO standard,2006,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,12.68,WHO standard,2007,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,12.83,WHO standard,2008,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,13.36,WHO standard,2009,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,13.28,WHO standard,2010,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,13.18,WHO standard,2011,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,13.49,WHO standard,2012,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,13.59,WHO standard,2013,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,13.89,WHO standard,2014,historical
+2026-05-18,WHO GHO,Nigeria,life_expectancy_female,13.6,WHO standard,2015,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,12.3,WHO standard,2005,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,11.0,WHO standard,2006,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,12.28,WHO standard,2007,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,11.07,WHO standard,2008,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,12.36,WHO standard,2009,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,13.33,WHO standard,2010,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,12.67,WHO standard,2011,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,12.9,WHO standard,2012,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,13.08,WHO standard,2013,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,13.1,WHO standard,2014,historical
+2026-05-18,WHO GHO,South Africa,life_expectancy_female,11.91,WHO standard,2015,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,15.47,WHO standard,2005,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,16.68,WHO standard,2006,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,15.75,WHO standard,2007,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,16.03,WHO standard,2008,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,16.18,WHO standard,2009,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,15.97,WHO standard,2010,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,16.25,WHO standard,2011,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,15.7,WHO standard,2012,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,16.99,WHO standard,2013,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,16.36,WHO standard,2014,historical
+2026-05-18,WHO GHO,Mexico,life_expectancy_female,16.93,WHO standard,2015,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,276.53,WHO standard,2005,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,258.33,WHO standard,2006,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,240.29,WHO standard,2007,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,222.7,WHO standard,2008,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,205.05,WHO standard,2009,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,188.33,WHO standard,2010,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,173.39,WHO standard,2011,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,160.07,WHO standard,2012,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,148.15,WHO standard,2013,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,136.91,WHO standard,2014,historical
+2026-05-18,WHO GHO,India,infant_mortality_rate,128.51,WHO standard,2015,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,41.97,WHO standard,2005,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,39.62,WHO standard,2006,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,37.58,WHO standard,2007,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,37.97,WHO standard,2008,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,34.67,WHO standard,2009,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,33.66,WHO standard,2010,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,32.51,WHO standard,2011,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,31.71,WHO standard,2012,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,29.79,WHO standard,2013,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,28.11,WHO standard,2014,historical
+2026-05-18,WHO GHO,China,infant_mortality_rate,26.15,WHO standard,2015,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,13.36,WHO standard,2005,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,13.48,WHO standard,2006,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,13.49,WHO standard,2007,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,13.85,WHO standard,2008,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,14.6,WHO standard,2009,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,14.58,WHO standard,2010,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,15.34,WHO standard,2011,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,15.68,WHO standard,2012,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,16.06,WHO standard,2013,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,16.54,WHO standard,2014,historical
+2026-05-18,WHO GHO,USA,infant_mortality_rate,17.02,WHO standard,2015,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,71.5,WHO standard,2005,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,72.19,WHO standard,2006,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,72.51,WHO standard,2007,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,71.4,WHO standard,2008,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,69.13,WHO standard,2009,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,65.95,WHO standard,2010,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,61.86,WHO standard,2011,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,59.73,WHO standard,2012,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,61.04,WHO standard,2013,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,63.39,WHO standard,2014,historical
+2026-05-18,WHO GHO,Brazil,infant_mortality_rate,62.96,WHO standard,2015,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,12.3,WHO standard,2005,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,11.75,WHO standard,2006,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,11.14,WHO standard,2007,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,11.09,WHO standard,2008,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,10.56,WHO standard,2009,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,10.22,WHO standard,2010,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,9.67,WHO standard,2011,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,8.93,WHO standard,2012,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,8.71,WHO standard,2013,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,8.98,WHO standard,2014,historical
+2026-05-18,WHO GHO,UK,infant_mortality_rate,9.15,WHO standard,2015,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,314.54,WHO standard,2005,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,284.46,WHO standard,2006,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,265.5,WHO standard,2007,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,253.82,WHO standard,2008,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,246.04,WHO standard,2009,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,240.13,WHO standard,2010,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,233.61,WHO standard,2011,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,227.01,WHO standard,2012,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,219.51,WHO standard,2013,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,210.57,WHO standard,2014,historical
+2026-05-18,WHO GHO,Pakistan,infant_mortality_rate,202.32,WHO standard,2015,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,377.53,WHO standard,2005,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,352.32,WHO standard,2006,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,334.09,WHO standard,2007,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,310.04,WHO standard,2008,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,292.75,WHO standard,2009,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,274.63,WHO standard,2010,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,258.33,WHO standard,2011,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,244.18,WHO standard,2012,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,230.41,WHO standard,2013,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,216.71,WHO standard,2014,historical
+2026-05-18,WHO GHO,Bangladesh,infant_mortality_rate,203.54,WHO standard,2015,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1059.81,WHO standard,2005,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1067.34,WHO standard,2006,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1063.35,WHO standard,2007,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1081.43,WHO standard,2008,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1088.1,WHO standard,2009,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1093.74,WHO standard,2010,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1107.97,WHO standard,2011,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1124.14,WHO standard,2012,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1146.02,WHO standard,2013,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1155.42,WHO standard,2014,historical
+2026-05-18,WHO GHO,Nigeria,infant_mortality_rate,1167.74,WHO standard,2015,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,278.81,WHO standard,2005,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,283.41,WHO standard,2006,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,271.95,WHO standard,2007,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,271.63,WHO standard,2008,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,241.06,WHO standard,2009,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,226.06,WHO standard,2010,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,202.03,WHO standard,2011,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,193.8,WHO standard,2012,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,179.74,WHO standard,2013,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,162.14,WHO standard,2014,historical
+2026-05-18,WHO GHO,South Africa,infant_mortality_rate,150.42,WHO standard,2015,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,51.65,WHO standard,2005,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,50.6,WHO standard,2006,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,49.6,WHO standard,2007,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,50.64,WHO standard,2008,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,50.61,WHO standard,2009,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,49.74,WHO standard,2010,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,47.28,WHO standard,2011,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,45.79,WHO standard,2012,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,44.96,WHO standard,2013,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,43.7,WHO standard,2014,historical
+2026-05-18,WHO GHO,Mexico,infant_mortality_rate,43.16,WHO standard,2015,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,60.14,WHO standard,2005,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,36.0,WHO standard,2006,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,68.95,WHO standard,2007,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,64.6,WHO standard,2008,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,30.91,WHO standard,2009,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,47.03,WHO standard,2010,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,55.03,WHO standard,2011,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,51.74,WHO standard,2012,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,73.32,WHO standard,2013,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,46.26,WHO standard,2014,historical
+2026-05-18,WHO GHO,India,maternal_mortality_ratio,65.48,WHO standard,2015,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,22.55,WHO standard,2005,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,23.23,WHO standard,2006,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,20.1,WHO standard,2007,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,17.31,WHO standard,2008,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,15.97,WHO standard,2009,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,16.7,WHO standard,2010,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,15.45,WHO standard,2011,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,12.64,WHO standard,2012,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,13.23,WHO standard,2013,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,12.23,WHO standard,2014,historical
+2026-05-18,WHO GHO,China,maternal_mortality_ratio,10.04,WHO standard,2015,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,8.76,WHO standard,2005,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,8.61,WHO standard,2006,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,6.96,WHO standard,2007,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,7.6,WHO standard,2008,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,6.7,WHO standard,2009,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,6.59,WHO standard,2010,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,7.82,WHO standard,2011,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,7.68,WHO standard,2012,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,6.93,WHO standard,2013,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,7.45,WHO standard,2014,historical
+2026-05-18,WHO GHO,USA,maternal_mortality_ratio,6.12,WHO standard,2015,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,24.61,WHO standard,2005,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,23.08,WHO standard,2006,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,21.73,WHO standard,2007,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,18.14,WHO standard,2008,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,21.65,WHO standard,2009,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,28.11,WHO standard,2010,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,17.86,WHO standard,2011,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,14.1,WHO standard,2012,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,14.82,WHO standard,2013,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,24.45,WHO standard,2014,historical
+2026-05-18,WHO GHO,Brazil,maternal_mortality_ratio,15.64,WHO standard,2015,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,6.04,WHO standard,2005,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,5.91,WHO standard,2006,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,5.17,WHO standard,2007,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,5.57,WHO standard,2008,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,5.38,WHO standard,2009,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,4.66,WHO standard,2010,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,5.47,WHO standard,2011,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,4.79,WHO standard,2012,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,4.17,WHO standard,2013,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,4.53,WHO standard,2014,historical
+2026-05-18,WHO GHO,UK,maternal_mortality_ratio,4.88,WHO standard,2015,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,113.4,WHO standard,2005,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,88.9,WHO standard,2006,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,120.8,WHO standard,2007,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,74.93,WHO standard,2008,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,72.98,WHO standard,2009,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,70.91,WHO standard,2010,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,100.22,WHO standard,2011,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,97.64,WHO standard,2012,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,80.36,WHO standard,2013,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,78.0,WHO standard,2014,historical
+2026-05-18,WHO GHO,Pakistan,maternal_mortality_ratio,75.6,WHO standard,2015,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,63.17,WHO standard,2005,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,75.79,WHO standard,2006,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,58.33,WHO standard,2007,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,50.19,WHO standard,2008,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,54.67,WHO standard,2009,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,45.58,WHO standard,2010,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,59.64,WHO standard,2011,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,51.36,WHO standard,2012,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,43.64,WHO standard,2013,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,35.66,WHO standard,2014,historical
+2026-05-18,WHO GHO,Bangladesh,maternal_mortality_ratio,33.9,WHO standard,2015,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,197.86,WHO standard,2005,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,162.26,WHO standard,2006,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,137.66,WHO standard,2007,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,73.46,WHO standard,2008,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,111.68,WHO standard,2009,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,128.66,WHO standard,2010,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,173.03,WHO standard,2011,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,130.87,WHO standard,2012,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,140.48,WHO standard,2013,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,168.53,WHO standard,2014,historical
+2026-05-18,WHO GHO,Nigeria,maternal_mortality_ratio,166.26,WHO standard,2015,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,107.37,WHO standard,2005,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,103.69,WHO standard,2006,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,75.7,WHO standard,2007,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,67.86,WHO standard,2008,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,77.64,WHO standard,2009,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,50.01,WHO standard,2010,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,41.67,WHO standard,2011,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,36.7,WHO standard,2012,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,37.75,WHO standard,2013,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,55.25,WHO standard,2014,historical
+2026-05-18,WHO GHO,South Africa,maternal_mortality_ratio,32.98,WHO standard,2015,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,24.9,WHO standard,2005,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,19.69,WHO standard,2006,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,23.17,WHO standard,2007,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,20.43,WHO standard,2008,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,19.77,WHO standard,2009,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,19.12,WHO standard,2010,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,18.51,WHO standard,2011,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,19.57,WHO standard,2012,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,18.99,WHO standard,2013,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,16.78,WHO standard,2014,historical
+2026-05-18,WHO GHO,Mexico,maternal_mortality_ratio,14.67,WHO standard,2015,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,16.88,WHO standard,2005,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,17.02,WHO standard,2006,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,18.6,WHO standard,2007,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,16.74,WHO standard,2008,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,19.04,WHO standard,2009,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,19.31,WHO standard,2010,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,18.15,WHO standard,2011,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,19.09,WHO standard,2012,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,18.17,WHO standard,2013,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,17.22,WHO standard,2014,historical
+2026-05-18,WHO GHO,India,healthy_life_expectancy,19.28,WHO standard,2015,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,19.93,WHO standard,2005,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,18.89,WHO standard,2006,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,17.61,WHO standard,2007,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,19.25,WHO standard,2008,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,19.31,WHO standard,2009,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,19.38,WHO standard,2010,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,19.58,WHO standard,2011,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,21.97,WHO standard,2012,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,18.13,WHO standard,2013,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,20.31,WHO standard,2014,historical
+2026-05-18,WHO GHO,China,healthy_life_expectancy,20.51,WHO standard,2015,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,22.09,WHO standard,2005,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,21.05,WHO standard,2006,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,21.26,WHO standard,2007,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,21.3,WHO standard,2008,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,22.95,WHO standard,2009,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,24.15,WHO standard,2010,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,21.75,WHO standard,2011,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,21.86,WHO standard,2012,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,24.26,WHO standard,2013,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,23.18,WHO standard,2014,historical
+2026-05-18,WHO GHO,USA,healthy_life_expectancy,23.07,WHO standard,2015,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,18.74,WHO standard,2005,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,21.83,WHO standard,2006,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,18.85,WHO standard,2007,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,18.86,WHO standard,2008,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,18.96,WHO standard,2009,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,22.11,WHO standard,2010,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,18.93,WHO standard,2011,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,20.83,WHO standard,2012,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,19.16,WHO standard,2013,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,22.52,WHO standard,2014,historical
+2026-05-18,WHO GHO,Brazil,healthy_life_expectancy,19.29,WHO standard,2015,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,20.72,WHO standard,2005,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,23.9,WHO standard,2006,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,24.0,WHO standard,2007,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,24.06,WHO standard,2008,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,21.81,WHO standard,2009,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,24.62,WHO standard,2010,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,23.65,WHO standard,2011,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,22.24,WHO standard,2012,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,24.72,WHO standard,2013,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,24.98,WHO standard,2014,historical
+2026-05-18,WHO GHO,UK,healthy_life_expectancy,22.31,WHO standard,2015,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,16.29,WHO standard,2005,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,16.78,WHO standard,2006,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.11,WHO standard,2007,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.22,WHO standard,2008,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,16.94,WHO standard,2009,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.39,WHO standard,2010,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.32,WHO standard,2011,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.41,WHO standard,2012,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.32,WHO standard,2013,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.4,WHO standard,2014,historical
+2026-05-18,WHO GHO,Pakistan,healthy_life_expectancy,17.64,WHO standard,2015,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,16.97,WHO standard,2005,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,18.01,WHO standard,2006,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,16.94,WHO standard,2007,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,17.24,WHO standard,2008,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,18.59,WHO standard,2009,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,18.72,WHO standard,2010,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,19.49,WHO standard,2011,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,19.98,WHO standard,2012,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,20.85,WHO standard,2013,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,19.93,WHO standard,2014,historical
+2026-05-18,WHO GHO,Bangladesh,healthy_life_expectancy,20.61,WHO standard,2015,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,16.21,WHO standard,2005,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,17.53,WHO standard,2006,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,17.71,WHO standard,2007,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,17.31,WHO standard,2008,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,17.47,WHO standard,2009,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,17.61,WHO standard,2010,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,18.33,WHO standard,2011,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,17.86,WHO standard,2012,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,17.34,WHO standard,2013,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,18.11,WHO standard,2014,historical
+2026-05-18,WHO GHO,Nigeria,healthy_life_expectancy,18.23,WHO standard,2015,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,14.49,WHO standard,2005,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,17.68,WHO standard,2006,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,16.44,WHO standard,2007,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,14.48,WHO standard,2008,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,16.55,WHO standard,2009,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,14.65,WHO standard,2010,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,18.41,WHO standard,2011,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,17.33,WHO standard,2012,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,17.59,WHO standard,2013,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,17.63,WHO standard,2014,historical
+2026-05-18,WHO GHO,South Africa,healthy_life_expectancy,18.92,WHO standard,2015,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,21.44,WHO standard,2005,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,20.82,WHO standard,2006,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,21.86,WHO standard,2007,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,20.57,WHO standard,2008,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,20.75,WHO standard,2009,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,22.35,WHO standard,2010,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,21.82,WHO standard,2011,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,20.85,WHO standard,2012,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,22.03,WHO standard,2013,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,20.89,WHO standard,2014,historical
+2026-05-18,WHO GHO,Mexico,healthy_life_expectancy,22.95,WHO standard,2015,historical
+2026-05-18,World Bank,India,life_expectancy,69.326,WB standard,2015,historical
+2026-05-18,World Bank,India,life_expectancy,68.932,WB standard,2014,historical
+2026-05-18,World Bank,India,life_expectancy,68.499,WB standard,2013,historical
+2026-05-18,World Bank,India,life_expectancy,68.076,WB standard,2012,historical
+2026-05-18,World Bank,India,life_expectancy,67.623,WB standard,2011,historical
+2026-05-18,World Bank,India,life_expectancy,67.162,WB standard,2010,historical
+2026-05-18,World Bank,India,life_expectancy,66.7,WB standard,2009,historical
+2026-05-18,World Bank,India,life_expectancy,66.247,WB standard,2008,historical
+2026-05-18,World Bank,India,life_expectancy,65.803,WB standard,2007,historical
+2026-05-18,World Bank,India,life_expectancy,65.373,WB standard,2006,historical
+2026-05-18,World Bank,India,life_expectancy,64.939,WB standard,2005,historical
+2026-05-18,World Bank,China,life_expectancy,76.975,WB standard,2015,historical
+2026-05-18,World Bank,China,life_expectancy,76.714,WB standard,2014,historical
+2026-05-18,World Bank,China,life_expectancy,76.452,WB standard,2013,historical
+2026-05-18,World Bank,China,life_expectancy,76.2,WB standard,2012,historical
+2026-05-18,World Bank,China,life_expectancy,75.889,WB standard,2011,historical
+2026-05-18,World Bank,China,life_expectancy,75.668,WB standard,2010,historical
+2026-05-18,World Bank,China,life_expectancy,75.317,WB standard,2009,historical
+2026-05-18,World Bank,China,life_expectancy,74.833,WB standard,2008,historical
+2026-05-18,World Bank,China,life_expectancy,74.789,WB standard,2007,historical
+2026-05-18,World Bank,China,life_expectancy,74.404,WB standard,2006,historical
+2026-05-18,World Bank,China,life_expectancy,74.085,WB standard,2005,historical
+2026-05-18,World Bank,USA,life_expectancy,78.69,WB standard,2015,historical
+2026-05-18,World Bank,USA,life_expectancy,78.841,WB standard,2014,historical
+2026-05-18,World Bank,USA,life_expectancy,78.741,WB standard,2013,historical
+2026-05-18,World Bank,USA,life_expectancy,78.741,WB standard,2012,historical
+2026-05-18,World Bank,USA,life_expectancy,78.641,WB standard,2011,historical
+2026-05-18,World Bank,USA,life_expectancy,78.541,WB standard,2010,historical
+2026-05-18,World Bank,USA,life_expectancy,78.39,WB standard,2009,historical
+2026-05-18,World Bank,USA,life_expectancy,78.039,WB standard,2008,historical
+2026-05-18,World Bank,USA,life_expectancy,77.988,WB standard,2007,historical
+2026-05-18,World Bank,USA,life_expectancy,77.688,WB standard,2006,historical
+2026-05-18,World Bank,USA,life_expectancy,77.488,WB standard,2005,historical
+2026-05-18,World Bank,UK,life_expectancy,80.956,WB standard,2015,historical
+2026-05-18,World Bank,UK,life_expectancy,81.305,WB standard,2014,historical
+2026-05-18,World Bank,UK,life_expectancy,81.005,WB standard,2013,historical
+2026-05-18,World Bank,UK,life_expectancy,80.905,WB standard,2012,historical
+2026-05-18,World Bank,UK,life_expectancy,80.951,WB standard,2011,historical
+2026-05-18,World Bank,UK,life_expectancy,80.402,WB standard,2010,historical
+2026-05-18,World Bank,UK,life_expectancy,80.051,WB standard,2009,historical
+2026-05-18,World Bank,UK,life_expectancy,79.6,WB standard,2008,historical
+2026-05-18,World Bank,UK,life_expectancy,79.449,WB standard,2007,historical
+2026-05-18,World Bank,UK,life_expectancy,79.249,WB standard,2006,historical
+2026-05-18,World Bank,UK,life_expectancy,79.049,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,65.641,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,65.374,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,65.129,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,64.883,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,64.659,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,64.378,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,64.206,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,64.002,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,63.807,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,63.624,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,life_expectancy,62.416,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,70.543,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,70.016,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,69.487,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,68.989,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,68.499,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,68.009,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,67.527,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,67.047,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,66.458,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,66.048,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,life_expectancy,65.509,WB standard,2005,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,51.939,WB standard,2015,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,51.94,WB standard,2014,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,51.827,WB standard,2013,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,51.688,WB standard,2012,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,51.49,WB standard,2011,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,51.315,WB standard,2010,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,51.08,WB standard,2009,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,50.748,WB standard,2008,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,50.381,WB standard,2007,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,49.876,WB standard,2006,historical
+2026-05-18,World Bank,Nigeria,life_expectancy,49.538,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,life_expectancy,64.053,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,life_expectancy,63.184,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,life_expectancy,62.388,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,life_expectancy,61.737,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,life_expectancy,60.602,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,life_expectancy,58.886,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,life_expectancy,57.413,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,life_expectancy,55.982,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,life_expectancy,54.948,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,life_expectancy,54.22,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,life_expectancy,53.914,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,life_expectancy,74.431,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,life_expectancy,74.404,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,life_expectancy,74.289,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,life_expectancy,74.128,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,life_expectancy,73.921,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,life_expectancy,73.718,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,life_expectancy,73.628,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,life_expectancy,73.695,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,life_expectancy,73.796,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,life_expectancy,73.746,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,life_expectancy,73.627,WB standard,2005,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,36.3,WB standard,2015,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,38.2,WB standard,2014,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,40.1,WB standard,2013,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,42.2,WB standard,2012,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,44.2,WB standard,2011,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,46.3,WB standard,2010,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,48.4,WB standard,2009,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,50.5,WB standard,2008,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,52.5,WB standard,2007,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,54.5,WB standard,2006,historical
+2026-05-18,World Bank,India,infant_mortality_per_1000,56.5,WB standard,2005,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,8.2,WB standard,2015,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,8.9,WB standard,2014,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,9.7,WB standard,2013,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,10.5,WB standard,2012,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,11.4,WB standard,2011,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,12.4,WB standard,2010,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,13.5,WB standard,2009,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,14.8,WB standard,2008,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,16.1,WB standard,2007,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,17.7,WB standard,2006,historical
+2026-05-18,World Bank,China,infant_mortality_per_1000,19.4,WB standard,2005,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,5.8,WB standard,2015,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,5.8,WB standard,2014,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,5.9,WB standard,2013,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.0,WB standard,2012,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.1,WB standard,2011,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.2,WB standard,2010,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.4,WB standard,2009,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.5,WB standard,2008,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.6,WB standard,2007,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.7,WB standard,2006,historical
+2026-05-18,World Bank,USA,infant_mortality_per_1000,6.8,WB standard,2005,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,13.7,WB standard,2015,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,14.0,WB standard,2014,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,14.4,WB standard,2013,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,14.8,WB standard,2012,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,15.3,WB standard,2011,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,16.0,WB standard,2010,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,16.7,WB standard,2009,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,17.6,WB standard,2008,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,18.6,WB standard,2007,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,19.7,WB standard,2006,historical
+2026-05-18,World Bank,Brazil,infant_mortality_per_1000,21.0,WB standard,2005,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,3.9,WB standard,2015,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,3.9,WB standard,2014,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,4.0,WB standard,2013,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,4.1,WB standard,2012,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,4.3,WB standard,2011,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,4.4,WB standard,2010,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,4.6,WB standard,2009,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,4.8,WB standard,2008,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,4.9,WB standard,2007,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,5.0,WB standard,2006,historical
+2026-05-18,World Bank,UK,infant_mortality_per_1000,5.1,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,63.6,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,65.5,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,67.4,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,69.3,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,71.1,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,72.8,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,74.4,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,75.9,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,77.3,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,78.6,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,infant_mortality_per_1000,80.0,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,29.8,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,31.2,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,32.6,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,33.9,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,35.3,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,36.8,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,38.3,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,40.0,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,41.8,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,43.8,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,infant_mortality_per_1000,46.0,WB standard,2005,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,68.0,WB standard,2015,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,68.1,WB standard,2014,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,68.5,WB standard,2013,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,69.1,WB standard,2012,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,70.0,WB standard,2011,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,71.1,WB standard,2010,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,72.3,WB standard,2009,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,73.8,WB standard,2008,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,75.6,WB standard,2007,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,77.7,WB standard,2006,historical
+2026-05-18,World Bank,Nigeria,infant_mortality_per_1000,80.0,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,29.3,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,30.7,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,32.1,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,33.3,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,34.5,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,36.0,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,38.2,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,41.0,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,44.0,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,46.0,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,infant_mortality_per_1000,47.7,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,15.0,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,15.4,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,15.8,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,16.2,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,16.6,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,17.0,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,17.4,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,17.9,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,18.4,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,18.9,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,infant_mortality_per_1000,19.5,WB standard,2005,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,43.7,WB standard,2015,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,46.4,WB standard,2014,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,49.1,WB standard,2013,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,52.0,WB standard,2012,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,55.0,WB standard,2011,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,58.1,WB standard,2010,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,61.2,WB standard,2009,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,64.5,WB standard,2008,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,67.8,WB standard,2007,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,71.0,WB standard,2006,historical
+2026-05-18,World Bank,India,under5_mortality_per_1000,74.3,WB standard,2005,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,10.7,WB standard,2015,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,11.6,WB standard,2014,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,12.5,WB standard,2013,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,13.5,WB standard,2012,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,14.6,WB standard,2011,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,15.7,WB standard,2010,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,17.1,WB standard,2009,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,18.5,WB standard,2008,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,20.1,WB standard,2007,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,21.9,WB standard,2006,historical
+2026-05-18,World Bank,China,under5_mortality_per_1000,24.0,WB standard,2005,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,6.8,WB standard,2015,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,6.8,WB standard,2014,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,6.9,WB standard,2013,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,7.0,WB standard,2012,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,7.2,WB standard,2011,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,7.3,WB standard,2010,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,7.5,WB standard,2009,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,7.6,WB standard,2008,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,7.7,WB standard,2007,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,7.9,WB standard,2006,historical
+2026-05-18,World Bank,USA,under5_mortality_per_1000,8.0,WB standard,2005,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,4.5,WB standard,2015,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,4.5,WB standard,2014,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,4.6,WB standard,2013,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,4.8,WB standard,2012,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,5.0,WB standard,2011,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,5.2,WB standard,2010,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,5.4,WB standard,2009,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,5.6,WB standard,2008,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,5.8,WB standard,2007,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,5.9,WB standard,2006,historical
+2026-05-18,World Bank,UK,under5_mortality_per_1000,6.0,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,74.8,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,77.2,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,79.6,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,82.0,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,84.3,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,86.5,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,88.5,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,90.5,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,92.3,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,94.2,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,under5_mortality_per_1000,96.0,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,38.5,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,40.5,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,42.4,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,44.4,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,46.5,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,48.7,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,51.1,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,53.6,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,56.5,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,59.6,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,under5_mortality_per_1000,63.0,WB standard,2005,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,117.8,WB standard,2015,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,118.7,WB standard,2014,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,119.9,WB standard,2013,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,121.6,WB standard,2012,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,123.8,WB standard,2011,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,126.3,WB standard,2010,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,129.2,WB standard,2009,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,132.5,WB standard,2008,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,136.5,WB standard,2007,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,140.9,WB standard,2006,historical
+2026-05-18,World Bank,Nigeria,under5_mortality_per_1000,145.8,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,38.2,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,39.7,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,41.4,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,43.1,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,45.6,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,50.3,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,56.9,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,63.7,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,71.2,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,76.9,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,under5_mortality_per_1000,79.8,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,16.6,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,17.0,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,17.5,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,17.9,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,18.4,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,18.9,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,19.5,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,20.0,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,20.7,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,21.3,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,under5_mortality_per_1000,22.1,WB standard,2005,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.7,WB standard,2015,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.72,WB standard,2014,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.74,WB standard,2013,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.76,WB standard,2012,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.79,WB standard,2011,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.81,WB standard,2010,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.84,WB standard,2009,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.87,WB standard,2008,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.89,WB standard,2007,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.92,WB standard,2006,historical
+2026-05-18,World Bank,India,hospital_beds_per_1000,1.95,WB standard,2005,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,3.82,WB standard,2015,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,3.57,WB standard,2014,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,3.32,WB standard,2013,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,3.04,WB standard,2012,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,2.72,WB standard,2011,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,2.51,WB standard,2010,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,2.32,WB standard,2009,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,2.16,WB standard,2008,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,2.02,WB standard,2007,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,1.94,WB standard,2006,historical
+2026-05-18,World Bank,China,hospital_beds_per_1000,1.87,WB standard,2005,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,2.75,WB standard,2015,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,2.79,WB standard,2014,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,2.86,WB standard,2013,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,2.9,WB standard,2012,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,2.94,WB standard,2011,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,3.03,WB standard,2010,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,3.07,WB standard,2009,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,3.12,WB standard,2008,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,3.13,WB standard,2007,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,3.17,WB standard,2006,historical
+2026-05-18,World Bank,USA,hospital_beds_per_1000,3.2,WB standard,2005,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.39,WB standard,2015,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.48,WB standard,2014,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.49,WB standard,2013,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.51,WB standard,2012,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.55,WB standard,2011,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.59,WB standard,2010,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.58,WB standard,2009,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.6,WB standard,2008,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.5,WB standard,2007,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.48,WB standard,2006,historical
+2026-05-18,World Bank,Brazil,hospital_beds_per_1000,2.52,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.46,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.47,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.47,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.45,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.43,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.42,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.43,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.44,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.46,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.46,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,hospital_beds_per_1000,0.47,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.76,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.6,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.58,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.61,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.53,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.54,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.49,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.37,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,hospital_beds_per_1000,0.35,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,hospital_beds_per_1000,2.25,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,hospital_beds_per_1000,2.32,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,hospital_beds_per_1000,2.34,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.0,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.01,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.02,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.02,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.03,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.05,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.02,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.03,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.06,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.02,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,hospital_beds_per_1000,1.05,WB standard,2005,historical
+2026-05-18,World Bank,Brazil,physicians_per_1000,1.906,WB standard,2013,historical
+2026-05-18,World Bank,Brazil,physicians_per_1000,1.87,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.476,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.478,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.412,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.39,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.373,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.352,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.343,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.33,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.317,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.305,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,physicians_per_1000,0.296,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.763,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.74,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.729,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.715,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.709,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.705,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.69,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.679,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,physicians_per_1000,0.679,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,2.34,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,2.237,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,2.164,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,2.12,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,2.109,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,2.007,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,1.987,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,1.957,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,1.929,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,1.886,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,physicians_per_1000,1.768,WB standard,2005,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.596,WB standard,2015,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.62,WB standard,2014,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.749,WB standard,2013,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.329,WB standard,2012,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.246,WB standard,2011,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.336,WB standard,2010,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.546,WB standard,2009,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.589,WB standard,2008,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.581,WB standard,2007,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.669,WB standard,2006,historical
+2026-05-18,World Bank,India,health_expenditure_pct_gdp,3.855,WB standard,2005,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,8.909,WB standard,2015,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,8.396,WB standard,2014,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,7.977,WB standard,2013,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,7.736,WB standard,2012,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,7.788,WB standard,2011,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,7.945,WB standard,2010,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,8.395,WB standard,2009,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,8.011,WB standard,2008,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,8.202,WB standard,2007,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,8.25,WB standard,2006,historical
+2026-05-18,World Bank,Brazil,health_expenditure_pct_gdp,8.035,WB standard,2005,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.94,WB standard,2015,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.977,WB standard,2014,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.991,WB standard,2013,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.893,WB standard,2012,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.797,WB standard,2011,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.788,WB standard,2010,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.839,WB standard,2009,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,9.033,WB standard,2008,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,8.76,WB standard,2007,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,8.54,WB standard,2006,historical
+2026-05-18,World Bank,UK,health_expenditure_pct_gdp,8.381,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.495,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.489,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.416,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.222,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.231,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.43,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.5,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.568,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.624,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.731,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,health_expenditure_pct_gdp,2.373,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.272,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.279,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.296,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.354,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.364,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.288,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.183,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.119,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.173,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.106,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,health_expenditure_pct_gdp,2.059,WB standard,2005,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.582,WB standard,2015,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.348,WB standard,2014,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.421,WB standard,2013,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.36,WB standard,2012,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.321,WB standard,2011,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.297,WB standard,2010,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.58,WB standard,2009,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.696,WB standard,2008,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,3.91,WB standard,2007,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,4.258,WB standard,2006,historical
+2026-05-18,World Bank,Nigeria,health_expenditure_pct_gdp,4.466,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,8.053,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,7.871,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,8.103,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,8.004,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,7.944,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,7.794,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,7.649,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,7.148,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,6.905,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,6.877,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,health_expenditure_pct_gdp,6.862,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.527,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.353,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.577,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.421,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.301,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.49,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.848,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.446,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.507,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.406,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,health_expenditure_pct_gdp,5.581,WB standard,2005,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,87.0,WB standard,2015,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,85.0,WB standard,2014,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,83.0,WB standard,2013,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,83.0,WB standard,2012,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,84.0,WB standard,2011,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,82.0,WB standard,2010,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,78.0,WB standard,2009,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,72.0,WB standard,2008,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,70.0,WB standard,2007,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,69.0,WB standard,2006,historical
+2026-05-18,World Bank,India,measles_vaccination_pct,68.0,WB standard,2005,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,99.0,WB standard,2015,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,99.0,WB standard,2014,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,99.0,WB standard,2013,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,99.0,WB standard,2012,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,99.0,WB standard,2011,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,99.0,WB standard,2010,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,99.0,WB standard,2009,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,97.0,WB standard,2008,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,94.0,WB standard,2007,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,93.0,WB standard,2006,historical
+2026-05-18,World Bank,China,measles_vaccination_pct,86.0,WB standard,2005,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2015,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2014,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2013,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,91.0,WB standard,2012,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2011,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2010,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,90.0,WB standard,2009,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2008,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2007,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2006,historical
+2026-05-18,World Bank,USA,measles_vaccination_pct,92.0,WB standard,2005,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,96.0,WB standard,2015,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,97.0,WB standard,2014,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,98.0,WB standard,2013,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,99.0,WB standard,2012,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,99.0,WB standard,2011,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,99.0,WB standard,2010,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,99.0,WB standard,2009,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,99.0,WB standard,2008,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,99.0,WB standard,2007,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,99.0,WB standard,2006,historical
+2026-05-18,World Bank,Brazil,measles_vaccination_pct,98.0,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,75.0,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,71.0,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,68.0,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,63.0,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,59.0,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,57.0,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,56.0,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,56.0,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,57.0,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,59.0,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,measles_vaccination_pct,61.0,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,97.0,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,94.0,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,91.0,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,88.0,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,93.0,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,88.0,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,93.0,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,92.0,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,89.0,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,83.0,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,measles_vaccination_pct,88.0,WB standard,2005,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,42.0,WB standard,2015,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,42.0,WB standard,2014,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,42.0,WB standard,2013,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,41.0,WB standard,2012,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,53.0,WB standard,2011,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,56.0,WB standard,2010,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,64.0,WB standard,2009,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,53.0,WB standard,2008,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,41.0,WB standard,2007,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,44.0,WB standard,2006,historical
+2026-05-18,World Bank,Nigeria,measles_vaccination_pct,41.0,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,86.0,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,84.0,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,78.0,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,79.0,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,77.0,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,72.0,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,77.0,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,73.0,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,68.0,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,69.0,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,measles_vaccination_pct,64.0,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,98.0,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,98.0,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,89.0,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,99.0,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,98.0,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,95.0,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,96.0,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,96.0,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,96.0,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,96.0,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,measles_vaccination_pct,96.0,WB standard,2005,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,87.0,WB standard,2015,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,85.0,WB standard,2014,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,83.0,WB standard,2013,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,82.0,WB standard,2012,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,82.0,WB standard,2011,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,79.0,WB standard,2010,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,74.0,WB standard,2009,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,70.0,WB standard,2008,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,64.0,WB standard,2007,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,65.0,WB standard,2006,historical
+2026-05-18,World Bank,India,dpt_vaccination_pct,65.0,WB standard,2005,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,99.0,WB standard,2015,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,99.0,WB standard,2014,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,99.0,WB standard,2013,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,99.0,WB standard,2012,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,99.0,WB standard,2011,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,99.0,WB standard,2010,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,99.0,WB standard,2009,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,97.0,WB standard,2008,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,93.0,WB standard,2007,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,93.0,WB standard,2006,historical
+2026-05-18,World Bank,China,dpt_vaccination_pct,87.0,WB standard,2005,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,95.0,WB standard,2015,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,95.0,WB standard,2014,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,94.0,WB standard,2013,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,94.0,WB standard,2012,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,96.0,WB standard,2011,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,95.0,WB standard,2010,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,95.0,WB standard,2009,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,96.0,WB standard,2008,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,96.0,WB standard,2007,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,96.0,WB standard,2006,historical
+2026-05-18,World Bank,USA,dpt_vaccination_pct,96.0,WB standard,2005,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,96.0,WB standard,2015,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,93.0,WB standard,2014,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,97.0,WB standard,2013,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,95.0,WB standard,2012,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,99.0,WB standard,2011,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,99.0,WB standard,2010,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,99.0,WB standard,2009,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,99.0,WB standard,2008,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,99.0,WB standard,2007,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,99.0,WB standard,2006,historical
+2026-05-18,World Bank,Brazil,dpt_vaccination_pct,99.0,WB standard,2005,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,95.0,WB standard,2015,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,95.0,WB standard,2014,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,95.0,WB standard,2013,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,95.0,WB standard,2012,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,95.0,WB standard,2011,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,94.0,WB standard,2010,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,93.0,WB standard,2009,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,92.0,WB standard,2008,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,92.0,WB standard,2007,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,92.0,WB standard,2006,historical
+2026-05-18,World Bank,UK,dpt_vaccination_pct,91.0,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,72.0,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,69.0,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,65.0,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,64.0,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,63.0,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,52.0,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,52.0,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,53.0,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,54.0,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,59.0,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,dpt_vaccination_pct,63.0,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,98.0,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,97.0,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,96.0,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,94.0,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,96.0,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,94.0,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,97.0,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,96.0,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,94.0,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,94.0,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,dpt_vaccination_pct,93.0,WB standard,2005,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,42.0,WB standard,2015,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,43.0,WB standard,2014,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,39.0,WB standard,2013,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,36.0,WB standard,2012,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,53.0,WB standard,2011,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,56.0,WB standard,2010,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,63.0,WB standard,2009,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,53.0,WB standard,2008,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,42.0,WB standard,2007,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,40.0,WB standard,2006,historical
+2026-05-18,World Bank,Nigeria,dpt_vaccination_pct,36.0,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,87.0,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,87.0,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,83.0,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,99.0,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,97.0,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,95.0,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,95.0,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,96.0,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,98.0,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,98.0,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,dpt_vaccination_pct,98.0,WB standard,2005,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,237.0,WB standard,2015,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,243.0,WB standard,2014,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,248.0,WB standard,2013,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,258.0,WB standard,2012,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,268.0,WB standard,2011,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,276.0,WB standard,2010,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,283.0,WB standard,2009,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,291.0,WB standard,2008,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,298.0,WB standard,2007,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,305.0,WB standard,2006,historical
+2026-05-18,World Bank,India,tb_incidence_per_100k,311.0,WB standard,2005,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,65.0,WB standard,2015,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,67.0,WB standard,2014,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,70.0,WB standard,2013,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,73.0,WB standard,2012,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,75.0,WB standard,2011,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,76.0,WB standard,2010,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,81.0,WB standard,2009,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,82.0,WB standard,2008,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,85.0,WB standard,2007,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,88.0,WB standard,2006,historical
+2026-05-18,World Bank,China,tb_incidence_per_100k,91.0,WB standard,2005,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,3.3,WB standard,2015,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,3.3,WB standard,2014,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,3.4,WB standard,2013,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,3.8,WB standard,2012,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,4.1,WB standard,2011,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,4.4,WB standard,2010,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,4.6,WB standard,2009,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,5.2,WB standard,2008,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,5.5,WB standard,2007,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,5.8,WB standard,2006,historical
+2026-05-18,World Bank,USA,tb_incidence_per_100k,6.0,WB standard,2005,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,41.0,WB standard,2015,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,41.0,WB standard,2014,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,42.0,WB standard,2013,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,42.0,WB standard,2012,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,42.0,WB standard,2011,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,42.0,WB standard,2010,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,43.0,WB standard,2009,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,44.0,WB standard,2008,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,44.0,WB standard,2007,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,44.0,WB standard,2006,historical
+2026-05-18,World Bank,Brazil,tb_incidence_per_100k,48.0,WB standard,2005,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,10.0,WB standard,2015,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,11.0,WB standard,2014,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,13.0,WB standard,2013,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,15.0,WB standard,2012,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,15.0,WB standard,2011,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,14.0,WB standard,2010,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,15.0,WB standard,2009,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,15.0,WB standard,2008,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,15.0,WB standard,2007,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,15.0,WB standard,2006,historical
+2026-05-18,World Bank,UK,tb_incidence_per_100k,15.0,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,270.0,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,270.0,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,275.0,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,tb_incidence_per_100k,276.0,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,tb_incidence_per_100k,221.0,WB standard,2005,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2015,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2014,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2013,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2012,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2011,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2010,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2009,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2008,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2007,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2006,historical
+2026-05-18,World Bank,Nigeria,tb_incidence_per_100k,219.0,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,988.0,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1070.0,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1110.0,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1160.0,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1200.0,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1230.0,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1260.0,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1270.0,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1270.0,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1250.0,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,tb_incidence_per_100k,1210.0,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,25.0,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,25.0,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,26.0,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,26.0,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,27.0,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,28.0,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,27.0,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,28.0,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,28.0,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,29.0,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,tb_incidence_per_100k,31.0,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,10.1,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,10.6,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,11.3,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,12.0,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,12.7,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,13.5,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,14.2,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,14.8,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,15.4,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,16.1,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,hiv_incidence_per_1000,16.7,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.29,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.29,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.29,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.28,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.28,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.28,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.28,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.28,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.27,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.27,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,hiv_incidence_per_1000,0.27,WB standard,2005,historical
+2026-05-18,World Bank,India,fertility_rate,2.289,WB standard,2015,historical
+2026-05-18,World Bank,India,fertility_rate,2.293,WB standard,2014,historical
+2026-05-18,World Bank,India,fertility_rate,2.399,WB standard,2013,historical
+2026-05-18,World Bank,India,fertility_rate,2.47,WB standard,2012,historical
+2026-05-18,World Bank,India,fertility_rate,2.532,WB standard,2011,historical
+2026-05-18,World Bank,India,fertility_rate,2.598,WB standard,2010,historical
+2026-05-18,World Bank,India,fertility_rate,2.674,WB standard,2009,historical
+2026-05-18,World Bank,India,fertility_rate,2.711,WB standard,2008,historical
+2026-05-18,World Bank,India,fertility_rate,2.775,WB standard,2007,historical
+2026-05-18,World Bank,India,fertility_rate,2.867,WB standard,2006,historical
+2026-05-18,World Bank,India,fertility_rate,2.958,WB standard,2005,historical
+2026-05-18,World Bank,China,fertility_rate,1.67,WB standard,2015,historical
+2026-05-18,World Bank,China,fertility_rate,1.769,WB standard,2014,historical
+2026-05-18,World Bank,China,fertility_rate,1.714,WB standard,2013,historical
+2026-05-18,World Bank,China,fertility_rate,1.798,WB standard,2012,historical
+2026-05-18,World Bank,China,fertility_rate,1.668,WB standard,2011,historical
+2026-05-18,World Bank,China,fertility_rate,1.687,WB standard,2010,historical
+2026-05-18,World Bank,China,fertility_rate,1.714,WB standard,2009,historical
+2026-05-18,World Bank,China,fertility_rate,1.701,WB standard,2008,historical
+2026-05-18,World Bank,China,fertility_rate,1.666,WB standard,2007,historical
+2026-05-18,World Bank,China,fertility_rate,1.644,WB standard,2006,historical
+2026-05-18,World Bank,China,fertility_rate,1.624,WB standard,2005,historical
+2026-05-18,World Bank,USA,fertility_rate,1.843,WB standard,2015,historical
+2026-05-18,World Bank,USA,fertility_rate,1.863,WB standard,2014,historical
+2026-05-18,World Bank,USA,fertility_rate,1.857,WB standard,2013,historical
+2026-05-18,World Bank,USA,fertility_rate,1.881,WB standard,2012,historical
+2026-05-18,World Bank,USA,fertility_rate,1.895,WB standard,2011,historical
+2026-05-18,World Bank,USA,fertility_rate,1.931,WB standard,2010,historical
+2026-05-18,World Bank,USA,fertility_rate,2.002,WB standard,2009,historical
+2026-05-18,World Bank,USA,fertility_rate,2.072,WB standard,2008,historical
+2026-05-18,World Bank,USA,fertility_rate,2.12,WB standard,2007,historical
+2026-05-18,World Bank,USA,fertility_rate,2.108,WB standard,2006,historical
+2026-05-18,World Bank,USA,fertility_rate,2.057,WB standard,2005,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,3.988,WB standard,2015,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.055,WB standard,2014,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.125,WB standard,2013,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.204,WB standard,2012,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.305,WB standard,2011,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.398,WB standard,2010,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.465,WB standard,2009,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.515,WB standard,2008,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.554,WB standard,2007,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.589,WB standard,2006,historical
+2026-05-18,World Bank,Pakistan,fertility_rate,4.595,WB standard,2005,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.227,WB standard,2015,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.228,WB standard,2014,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.247,WB standard,2013,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.263,WB standard,2012,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.309,WB standard,2011,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.38,WB standard,2010,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.484,WB standard,2009,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.577,WB standard,2008,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.666,WB standard,2007,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.755,WB standard,2006,historical
+2026-05-18,World Bank,Bangladesh,fertility_rate,2.846,WB standard,2005,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.359,WB standard,2015,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.424,WB standard,2014,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.428,WB standard,2013,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.447,WB standard,2012,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.436,WB standard,2011,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.445,WB standard,2010,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.501,WB standard,2009,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.679,WB standard,2008,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.545,WB standard,2007,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.548,WB standard,2006,historical
+2026-05-18,World Bank,South Africa,fertility_rate,2.512,WB standard,2005,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.137,WB standard,2015,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.211,WB standard,2014,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.269,WB standard,2013,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.294,WB standard,2012,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.317,WB standard,2011,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.34,WB standard,2010,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.364,WB standard,2009,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.391,WB standard,2008,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.421,WB standard,2007,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.456,WB standard,2006,historical
+2026-05-18,World Bank,Mexico,fertility_rate,2.495,WB standard,2005,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,63.5,verified,2005,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,64.4,verified,2006,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,65.2,verified,2007,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,66.0,verified,2008,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,66.8,verified,2009,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,67.5,verified,2010,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,68.0,verified,2011,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,68.5,verified,2012,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,68.8,verified,2013,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,69.1,verified,2014,historical
+2026-05-18,WHO Verified,India,life_expectancy_verified,69.4,verified,2015,historical
+2026-05-18,WHO Verified,China,life_expectancy_verified,73.2,verified,2005,historical
+2026-05-18,WHO Verified,China,life_expectancy_verified,74.0,verified,2007,historical
+2026-05-18,WHO Verified,China,life_expectancy_verified,74.8,verified,2010,historical
+2026-05-18,WHO Verified,China,life_expectancy_verified,75.7,verified,2013,historical
+2026-05-18,WHO Verified,China,life_expectancy_verified,76.1,verified,2015,historical
+2026-05-18,WHO Verified,USA,life_expectancy_verified,77.4,verified,2005,historical
+2026-05-18,WHO Verified,USA,life_expectancy_verified,77.8,verified,2007,historical
+2026-05-18,WHO Verified,USA,life_expectancy_verified,78.5,verified,2010,historical
+2026-05-18,WHO Verified,USA,life_expectancy_verified,78.8,verified,2013,historical
+2026-05-18,WHO Verified,USA,life_expectancy_verified,78.7,verified,2015,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,56.0,verified,2005,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,53.0,verified,2006,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,50.0,verified,2007,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,47.0,verified,2008,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,44.0,verified,2009,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,41.0,verified,2010,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,39.0,verified,2011,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,37.0,verified,2012,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,35.0,verified,2013,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,34.0,verified,2014,historical
+2026-05-18,UNICEF Verified,India,infant_mortality_verified,33.0,verified,2015,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,56.0,verified,2005,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,59.0,verified,2006,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,67.0,verified,2007,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,70.0,verified,2008,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,71.0,verified,2009,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,74.0,verified,2010,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,74.0,verified,2011,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,74.0,verified,2012,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,83.0,verified,2013,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,84.0,verified,2014,historical
+2026-05-18,WHO Verified,India,measles_vaccination_verified,87.0,verified,2015,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,283.0,verified,2005,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,275.0,verified,2006,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,265.0,verified,2007,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,255.0,verified,2008,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,245.0,verified,2009,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,236.0,verified,2010,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,226.0,verified,2011,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,217.0,verified,2012,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,209.0,verified,2013,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,200.0,verified,2014,historical
+2026-05-18,WHO Verified,India,tb_incidence_verified,193.0,verified,2015,historical
+2026-05-18,WB Verified,India,hospital_beds_verified,0.7,verified,2005,historical
+2026-05-18,WB Verified,India,hospital_beds_verified,0.7,verified,2010,historical
+2026-05-18,WB Verified,India,hospital_beds_verified,0.7,verified,2015,historical
+2026-05-18,WB Verified,China,hospital_beds_verified,2.4,verified,2005,historical
+2026-05-18,WB Verified,China,hospital_beds_verified,3.6,verified,2010,historical
+2026-05-18,WB Verified,China,hospital_beds_verified,4.2,verified,2015,historical
+2026-05-18,WB Verified,USA,hospital_beds_verified,3.1,verified,2005,historical
+2026-05-18,WB Verified,USA,hospital_beds_verified,3.0,verified,2010,historical
+2026-05-18,WB Verified,USA,hospital_beds_verified,2.9,verified,2015,historical
+2026-05-18,WB Verified,USA,health_expenditure_pct_gdp,15.2,verified,2005,historical
+2026-05-18,WB Verified,USA,health_expenditure_pct_gdp,16.4,verified,2010,historical
+2026-05-18,WB Verified,USA,health_expenditure_pct_gdp,16.8,verified,2015,historical

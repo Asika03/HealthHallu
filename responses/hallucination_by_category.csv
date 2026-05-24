@@ -1,0 +1,145 @@
+model,category,hallucination_rate,valid_attempts
+LLaMA_3_3_70B,Disease Statistics,0.5625,32
+LLaMA_3_3_70B,Mortality & Life Stats,0.1961,51
+LLaMA_3_3_70B,Healthcare Infrastructure,0.1154,26
+LLaMA_3_3_70B,Vaccination & Prevention,0.0,12
+LLaMA_3_3_70B,India vs Global,,0
+LLaMA_3_3_70B,Hallucination Traps,,0
+LLaMA_3_3_70B,Ranking Questions,,0
+LLaMA_3_3_70B,Historical Questions,0.0,10
+LLaMA_3_1_8B,Disease Statistics,1.0,9
+LLaMA_3_1_8B,Mortality & Life Stats,0.2222,45
+LLaMA_3_1_8B,Healthcare Infrastructure,0.24,25
+LLaMA_3_1_8B,Vaccination & Prevention,0.0,11
+LLaMA_3_1_8B,India vs Global,,0
+LLaMA_3_1_8B,Hallucination Traps,,0
+LLaMA_3_1_8B,Ranking Questions,,0
+LLaMA_3_1_8B,Historical Questions,0.4,10
+LLaMA_4_Scout_17B,Disease Statistics,0.625,8
+LLaMA_4_Scout_17B,Mortality & Life Stats,0.1961,51
+LLaMA_4_Scout_17B,Healthcare Infrastructure,0.1154,26
+LLaMA_4_Scout_17B,Vaccination & Prevention,0.0,12
+LLaMA_4_Scout_17B,India vs Global,,0
+LLaMA_4_Scout_17B,Hallucination Traps,,0
+LLaMA_4_Scout_17B,Ranking Questions,,0
+LLaMA_4_Scout_17B,Historical Questions,0.0,10
+Qwen3_32B,Disease Statistics,1.0,36
+Qwen3_32B,Mortality & Life Stats,1.0,51
+Qwen3_32B,Healthcare Infrastructure,1.0,26
+Qwen3_32B,Vaccination & Prevention,1.0,12
+Qwen3_32B,India vs Global,,0
+Qwen3_32B,Hallucination Traps,,0
+Qwen3_32B,Ranking Questions,,0
+Qwen3_32B,Historical Questions,1.0,10
+OpenAI_OSS_20B,Disease Statistics,,0
+OpenAI_OSS_20B,Mortality & Life Stats,,0
+OpenAI_OSS_20B,Healthcare Infrastructure,,0
+OpenAI_OSS_20B,Vaccination & Prevention,,0
+OpenAI_OSS_20B,India vs Global,,0
+OpenAI_OSS_20B,Hallucination Traps,,0
+OpenAI_OSS_20B,Ranking Questions,,0
+OpenAI_OSS_20B,Historical Questions,,0
+NVIDIA_Nemotron_120B,Disease Statistics,1.0,6
+NVIDIA_Nemotron_120B,Mortality & Life Stats,,0
+NVIDIA_Nemotron_120B,Healthcare Infrastructure,,0
+NVIDIA_Nemotron_120B,Vaccination & Prevention,,0
+NVIDIA_Nemotron_120B,India vs Global,,0
+NVIDIA_Nemotron_120B,Hallucination Traps,,0
+NVIDIA_Nemotron_120B,Ranking Questions,,0
+NVIDIA_Nemotron_120B,Historical Questions,0.7778,9
+OpenAI_OSS_120B,Disease Statistics,0.75,32
+OpenAI_OSS_120B,Mortality & Life Stats,0.1961,51
+OpenAI_OSS_120B,Healthcare Infrastructure,0.1154,26
+OpenAI_OSS_120B,Vaccination & Prevention,0.0,12
+OpenAI_OSS_120B,India vs Global,,0
+OpenAI_OSS_120B,Hallucination Traps,,0
+OpenAI_OSS_120B,Ranking Questions,,0
+OpenAI_OSS_120B,Historical Questions,0.1,10
+Gemma_4_31B,Disease Statistics,,0
+Gemma_4_31B,Mortality & Life Stats,,0
+Gemma_4_31B,Healthcare Infrastructure,,0
+Gemma_4_31B,Vaccination & Prevention,,0
+Gemma_4_31B,India vs Global,,0
+Gemma_4_31B,Hallucination Traps,,0
+Gemma_4_31B,Ranking Questions,,0
+Gemma_4_31B,Historical Questions,,0
+MiniMax_M2_5,Disease Statistics,1.0,2
+MiniMax_M2_5,Mortality & Life Stats,0.2564,39
+MiniMax_M2_5,Healthcare Infrastructure,0.1,20
+MiniMax_M2_5,Vaccination & Prevention,0.0,11
+MiniMax_M2_5,India vs Global,,0
+MiniMax_M2_5,Hallucination Traps,,0
+MiniMax_M2_5,Ranking Questions,,0
+MiniMax_M2_5,Historical Questions,0.25,4
+Baidu_CoBuddy,Disease Statistics,,0
+Baidu_CoBuddy,Mortality & Life Stats,,0
+Baidu_CoBuddy,Healthcare Infrastructure,,0
+Baidu_CoBuddy,Vaccination & Prevention,,0
+Baidu_CoBuddy,India vs Global,,0
+Baidu_CoBuddy,Hallucination Traps,,0
+Baidu_CoBuddy,Ranking Questions,,0
+Baidu_CoBuddy,Historical Questions,,0
+LiquidAI_Instruct,Disease Statistics,1.0,7
+LiquidAI_Instruct,Mortality & Life Stats,,0
+LiquidAI_Instruct,Healthcare Infrastructure,,0
+LiquidAI_Instruct,Vaccination & Prevention,,0
+LiquidAI_Instruct,India vs Global,,0
+LiquidAI_Instruct,Hallucination Traps,,0
+LiquidAI_Instruct,Ranking Questions,,0
+LiquidAI_Instruct,Historical Questions,0.8889,9
+OpenAI_OSS_20B_OR,Disease Statistics,0.9737,38
+OpenAI_OSS_20B_OR,Mortality & Life Stats,0.1795,39
+OpenAI_OSS_20B_OR,Healthcare Infrastructure,0.15,20
+OpenAI_OSS_20B_OR,Vaccination & Prevention,0.0,11
+OpenAI_OSS_20B_OR,India vs Global,,0
+OpenAI_OSS_20B_OR,Hallucination Traps,,0
+OpenAI_OSS_20B_OR,Ranking Questions,,0
+OpenAI_OSS_20B_OR,Historical Questions,0.1111,9
+Owl_Alpha,Disease Statistics,0.9184,49
+Owl_Alpha,Mortality & Life Stats,0.2353,51
+Owl_Alpha,Healthcare Infrastructure,0.1538,26
+Owl_Alpha,Vaccination & Prevention,0.0,11
+Owl_Alpha,India vs Global,,0
+Owl_Alpha,Hallucination Traps,,0
+Owl_Alpha,Ranking Questions,,0
+Owl_Alpha,Historical Questions,0.0,10
+Free_Router,Disease Statistics,0.8889,18
+Free_Router,Mortality & Life Stats,0.2333,30
+Free_Router,Healthcare Infrastructure,0.0556,18
+Free_Router,Vaccination & Prevention,0.0,9
+Free_Router,India vs Global,,0
+Free_Router,Hallucination Traps,,0
+Free_Router,Ranking Questions,,0
+Free_Router,Historical Questions,0.6,5
+Groq_Compound,Disease Statistics,0.6296,27
+Groq_Compound,Mortality & Life Stats,,0
+Groq_Compound,Healthcare Infrastructure,,0
+Groq_Compound,Vaccination & Prevention,,0
+Groq_Compound,India vs Global,,0
+Groq_Compound,Hallucination Traps,,0
+Groq_Compound,Ranking Questions,,0
+Groq_Compound,Historical Questions,,0
+Groq_Compound_Mini,Disease Statistics,0.72,25
+Groq_Compound_Mini,Mortality & Life Stats,0.0,2
+Groq_Compound_Mini,Healthcare Infrastructure,,0
+Groq_Compound_Mini,Vaccination & Prevention,,0
+Groq_Compound_Mini,India vs Global,,0
+Groq_Compound_Mini,Hallucination Traps,,0
+Groq_Compound_Mini,Ranking Questions,,0
+Groq_Compound_Mini,Historical Questions,,0
+Allam_2_7B,Disease Statistics,1.0,6
+Allam_2_7B,Mortality & Life Stats,0.1667,48
+Allam_2_7B,Healthcare Infrastructure,0.2917,24
+Allam_2_7B,Vaccination & Prevention,0.0,9
+Allam_2_7B,India vs Global,,0
+Allam_2_7B,Hallucination Traps,,0
+Allam_2_7B,Ranking Questions,,0
+Allam_2_7B,Historical Questions,0.1538,26
+OSS_Safeguard_20B,Disease Statistics,,0
+OSS_Safeguard_20B,Mortality & Life Stats,,0
+OSS_Safeguard_20B,Healthcare Infrastructure,,0
+OSS_Safeguard_20B,Vaccination & Prevention,,0
+OSS_Safeguard_20B,India vs Global,,0
+OSS_Safeguard_20B,Hallucination Traps,,0
+OSS_Safeguard_20B,Ranking Questions,,0
+OSS_Safeguard_20B,Historical Questions,,0

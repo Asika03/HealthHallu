@@ -1,0 +1,231 @@
+id,category,subcategory,question,correct_answer,answer_display,unit,source,difficulty,date_generated,data_type
+Q001,Disease Statistics,Global,"What is the total number of globally reported disease cases as of May 13, 2026?",704753890,"704,753,890",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q002,Disease Statistics,Global,"How many people worldwide have been infected by disease in total as of May 13, 2026?",704753890,"704,753,890",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q003,Disease Statistics,Global,"According to disease.sh, what is the global cumulative disease case count as of May 13, 2026?",704753890,"704,753,890",cases,disease.sh,Hard,"May 13, 2026",real-time
+Q004,Disease Statistics,Global,"How many total deaths have been recorded globally due to disease as of May 13, 2026?",7010681,"7,010,681",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q005,Disease Statistics,Global,"What is the global disease death toll as of May 13, 2026?",7010681,"7,010,681",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q006,Disease Statistics,Global,"How many people have died from disease globally according to disease.sh as of May 13, 2026?",7010681,"7,010,681",deaths,disease.sh,Hard,"May 13, 2026",real-time
+Q007,Disease Statistics,Global,"What is the current number of active disease cases worldwide as of May 13, 2026?",22123398,"22,123,398",active cases,disease.sh,Hard,"May 13, 2026",real-time
+Q008,Disease Statistics,Global,"How many people are currently sick with disease globally as of May 13, 2026?",22123398,"22,123,398",active cases,disease.sh,Hard,"May 13, 2026",real-time
+Q009,Disease Statistics,Global,"How many people have recovered from disease globally as of May 13, 2026?",675619811,"675,619,811",recovered,disease.sh,Medium,"May 13, 2026",real-time
+Q010,Disease Statistics,Global,"What is the global disease recovery count as of May 13, 2026?",675619811,"675,619,811",recovered,disease.sh,Medium,"May 13, 2026",real-time
+Q011,Disease Statistics,Global,"How many critical disease cases are there globally as of May 13, 2026?",34794,"34,794",critical cases,disease.sh,Hard,"May 13, 2026",real-time
+Q012,Disease Statistics,Global,"What is the number of patients in critical condition due to disease worldwide as of May 13, 2026?",34794,"34,794",critical cases,disease.sh,Hard,"May 13, 2026",real-time
+Q013,Disease Statistics,India,"What is the total number of disease cases reported in India as of May 13, 2026?",45035393,"45,035,393",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q014,Disease Statistics,India,"How many Indians have been infected by disease in total as of May 13, 2026?",45035393,"45,035,393",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q015,Disease Statistics,India,"According to disease.sh what is India's cumulative disease case count as of May 13, 2026?",45035393,"45,035,393",cases,disease.sh,Hard,"May 13, 2026",real-time
+Q016,Disease Statistics,India,"How many disease-related deaths have been recorded in India as of May 13, 2026?",533570,"533,570",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q017,Disease Statistics,India,"What is India's total disease death count as of May 13, 2026?",533570,"533,570",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q018,Disease Statistics,India,"How many people in India have died from disease according to disease.sh as of May 13, 2026?",533570,"533,570",deaths,disease.sh,Hard,"May 13, 2026",real-time
+Q019,Disease Statistics,India,"How many active disease cases does India currently have as of May 13, 2026?",44501823,"44,501,823",active cases,disease.sh,Hard,"May 13, 2026",real-time
+Q020,Disease Statistics,India,"What is the number of currently active disease patients in India as of May 13, 2026?",44501823,"44,501,823",active cases,disease.sh,Hard,"May 13, 2026",real-time
+Q021,Disease Statistics,India,What is India's total disease case rate per one million population?,32016.0,32016.0,per million,disease.sh,Hard,"May 13, 2026",real-time
+Q022,Disease Statistics,India,How many disease cases per million people has India recorded?,32016.0,32016.0,per million,disease.sh,Hard,"May 13, 2026",real-time
+Q023,Disease Statistics,India,What is India's disease death rate per one million population?,379.0,379.0,per million,disease.sh,Hard,"May 13, 2026",real-time
+Q024,Disease Statistics,India,How many disease deaths per million people has India recorded?,379.0,379.0,per million,disease.sh,Hard,"May 13, 2026",real-time
+Q025,Disease Statistics,India,How many disease tests per million population has India conducted?,665334.0,665334.0,per million,disease.sh,Hard,"May 13, 2026",real-time
+Q026,Disease Statistics,India,What is India's disease testing rate per one million people?,665334.0,665334.0,per million,disease.sh,Hard,"May 13, 2026",real-time
+Q027,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in USA as of May 13, 2026?",111820082,"111,820,082",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q028,Disease Statistics,Global Comparison,"How many disease infections have been recorded in USA in total as of May 13, 2026?",111820082,"111,820,082",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q029,Disease Statistics,Global Comparison,"How many disease deaths have been reported in USA as of May 13, 2026?",1219487,"1,219,487",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q030,Disease Statistics,Global Comparison,"What is the total disease death toll in USA as of May 13, 2026?",1219487,"1,219,487",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q031,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in France as of May 13, 2026?",40138560,"40,138,560",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q032,Disease Statistics,Global Comparison,"How many disease infections have been recorded in France in total as of May 13, 2026?",40138560,"40,138,560",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q033,Disease Statistics,Global Comparison,"How many disease deaths have been reported in France as of May 13, 2026?",167642,"167,642",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q034,Disease Statistics,Global Comparison,"What is the total disease death toll in France as of May 13, 2026?",167642,"167,642",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q035,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in Germany as of May 13, 2026?",38828995,"38,828,995",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q036,Disease Statistics,Global Comparison,"How many disease infections have been recorded in Germany in total as of May 13, 2026?",38828995,"38,828,995",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q037,Disease Statistics,Global Comparison,"How many disease deaths have been reported in Germany as of May 13, 2026?",183027,"183,027",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q038,Disease Statistics,Global Comparison,"What is the total disease death toll in Germany as of May 13, 2026?",183027,"183,027",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q039,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in Brazil as of May 13, 2026?",38743918,"38,743,918",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q040,Disease Statistics,Global Comparison,"How many disease infections have been recorded in Brazil in total as of May 13, 2026?",38743918,"38,743,918",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q041,Disease Statistics,Global Comparison,"How many disease deaths have been reported in Brazil as of May 13, 2026?",711380,"711,380",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q042,Disease Statistics,Global Comparison,"What is the total disease death toll in Brazil as of May 13, 2026?",711380,"711,380",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q043,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in S. Korea as of May 13, 2026?",34571873,"34,571,873",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q044,Disease Statistics,Global Comparison,"How many disease infections have been recorded in S. Korea in total as of May 13, 2026?",34571873,"34,571,873",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q045,Disease Statistics,Global Comparison,"How many disease deaths have been reported in S. Korea as of May 13, 2026?",35934,"35,934",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q046,Disease Statistics,Global Comparison,"What is the total disease death toll in S. Korea as of May 13, 2026?",35934,"35,934",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q047,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in Japan as of May 13, 2026?",33803572,"33,803,572",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q048,Disease Statistics,Global Comparison,"How many disease infections have been recorded in Japan in total as of May 13, 2026?",33803572,"33,803,572",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q049,Disease Statistics,Global Comparison,"How many disease deaths have been reported in Japan as of May 13, 2026?",74694,"74,694",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q050,Disease Statistics,Global Comparison,"What is the total disease death toll in Japan as of May 13, 2026?",74694,"74,694",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q051,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in UK as of May 13, 2026?",24910387,"24,910,387",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q052,Disease Statistics,Global Comparison,"How many disease infections have been recorded in UK in total as of May 13, 2026?",24910387,"24,910,387",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q053,Disease Statistics,Global Comparison,"How many disease deaths have been reported in UK as of May 13, 2026?",232112,"232,112",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q054,Disease Statistics,Global Comparison,"What is the total disease death toll in UK as of May 13, 2026?",232112,"232,112",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q055,Disease Statistics,Global Comparison,"What is the total number of disease cases reported in Russia as of May 13, 2026?",24124215,"24,124,215",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q056,Disease Statistics,Global Comparison,"How many disease infections have been recorded in Russia in total as of May 13, 2026?",24124215,"24,124,215",cases,disease.sh,Medium,"May 13, 2026",real-time
+Q057,Disease Statistics,Global Comparison,"How many disease deaths have been reported in Russia as of May 13, 2026?",402756,"402,756",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q058,Disease Statistics,Global Comparison,"What is the total disease death toll in Russia as of May 13, 2026?",402756,"402,756",deaths,disease.sh,Medium,"May 13, 2026",real-time
+Q059,Mortality & Life Stats,Life Expectancy,What is the current life expectancy at birth in India according to World Bank (2024)?,72.2,72.2,years,World Bank,Easy,"May 13, 2026",mixed
+Q060,Mortality & Life Stats,Life Expectancy,How many years does an average person in India live according to World Bank data (2024)?,72.2,72.2,years,World Bank,Easy,"May 13, 2026",mixed
+Q061,Mortality & Life Stats,Life Expectancy,"According to World Bank, what is India's life expectancy figure for 2024?",72.2,72.2,years,World Bank,Medium,"May 13, 2026",mixed
+Q062,Mortality & Life Stats,Life Expectancy,What is the life expectancy at birth in India according to WHO data (2021)?,67.3,67.3,years,WHO GHO,Easy,"May 13, 2026",mixed
+Q063,Mortality & Life Stats,Life Expectancy,According to WHO what is the average lifespan in India as of 2021?,67.3,67.3,years,WHO GHO,Medium,"May 13, 2026",mixed
+Q064,Mortality & Life Stats,Life Expectancy,What is the current life expectancy at birth in China according to World Bank (2024)?,78.0,78.0,years,World Bank,Easy,"May 13, 2026",mixed
+Q065,Mortality & Life Stats,Life Expectancy,How many years does an average person in China live according to World Bank data (2024)?,78.0,78.0,years,World Bank,Easy,"May 13, 2026",mixed
+Q066,Mortality & Life Stats,Life Expectancy,"According to World Bank, what is China's life expectancy figure for 2024?",78.0,78.0,years,World Bank,Medium,"May 13, 2026",mixed
+Q067,Mortality & Life Stats,Life Expectancy,What is the life expectancy at birth in China according to WHO data (2021)?,80.5,80.5,years,WHO GHO,Easy,"May 13, 2026",mixed
+Q068,Mortality & Life Stats,Life Expectancy,According to WHO what is the average lifespan in China as of 2021?,80.5,80.5,years,WHO GHO,Medium,"May 13, 2026",mixed
+Q069,Mortality & Life Stats,Life Expectancy,What is the current life expectancy at birth in United States according to World Bank (2024)?,78.9,78.9,years,World Bank,Easy,"May 13, 2026",mixed
+Q070,Mortality & Life Stats,Life Expectancy,How many years does an average person in United States live according to World Bank data (2024)?,78.9,78.9,years,World Bank,Easy,"May 13, 2026",mixed
+Q071,Mortality & Life Stats,Life Expectancy,"According to World Bank, what is United States's life expectancy figure for 2024?",78.9,78.9,years,World Bank,Medium,"May 13, 2026",mixed
+Q072,Mortality & Life Stats,Life Expectancy,What is the life expectancy at birth in United States according to WHO data (2021)?,76.4,76.4,years,WHO GHO,Easy,"May 13, 2026",mixed
+Q073,Mortality & Life Stats,Life Expectancy,According to WHO what is the average lifespan in United States as of 2021?,76.4,76.4,years,WHO GHO,Medium,"May 13, 2026",mixed
+Q074,Mortality & Life Stats,Life Expectancy,What is the current life expectancy at birth in Brazil according to World Bank (2024)?,76.0,76.0,years,World Bank,Easy,"May 13, 2026",mixed
+Q075,Mortality & Life Stats,Life Expectancy,How many years does an average person in Brazil live according to World Bank data (2024)?,76.0,76.0,years,World Bank,Easy,"May 13, 2026",mixed
+Q076,Mortality & Life Stats,Life Expectancy,"According to World Bank, what is Brazil's life expectancy figure for 2024?",76.0,76.0,years,World Bank,Medium,"May 13, 2026",mixed
+Q077,Mortality & Life Stats,Life Expectancy,What is the life expectancy at birth in Brazil according to WHO data (2021)?,69.0,69.0,years,WHO GHO,Easy,"May 13, 2026",mixed
+Q078,Mortality & Life Stats,Life Expectancy,According to WHO what is the average lifespan in Brazil as of 2021?,69.0,69.0,years,WHO GHO,Medium,"May 13, 2026",mixed
+Q079,Mortality & Life Stats,Life Expectancy,What is the current life expectancy at birth in United Kingdom according to World Bank (2024)?,81.4,81.4,years,World Bank,Easy,"May 13, 2026",mixed
+Q080,Mortality & Life Stats,Life Expectancy,How many years does an average person in United Kingdom live according to World Bank data (2024)?,81.4,81.4,years,World Bank,Easy,"May 13, 2026",mixed
+Q081,Mortality & Life Stats,Life Expectancy,"According to World Bank, what is United Kingdom's life expectancy figure for 2024?",81.4,81.4,years,World Bank,Medium,"May 13, 2026",mixed
+Q082,Mortality & Life Stats,Life Expectancy,What is the life expectancy at birth in United Kingdom according to WHO data (2021)?,80.1,80.1,years,WHO GHO,Easy,"May 13, 2026",mixed
+Q083,Mortality & Life Stats,Life Expectancy,According to WHO what is the average lifespan in United Kingdom as of 2021?,80.1,80.1,years,WHO GHO,Medium,"May 13, 2026",mixed
+Q084,Mortality & Life Stats,Life Expectancy,What is the current life expectancy at birth in Pakistan according to World Bank (2024)?,67.8,67.8,years,World Bank,Easy,"May 13, 2026",mixed
+Q085,Mortality & Life Stats,Life Expectancy,How many years does an average person in Pakistan live according to World Bank data (2024)?,67.8,67.8,years,World Bank,Easy,"May 13, 2026",mixed
+Q086,Mortality & Life Stats,Life Expectancy,"According to World Bank, what is Pakistan's life expectancy figure for 2024?",67.8,67.8,years,World Bank,Medium,"May 13, 2026",mixed
+Q087,Mortality & Life Stats,Life Expectancy,What is the life expectancy at birth in Pakistan according to WHO data (2021)?,66.0,66.0,years,WHO GHO,Easy,"May 13, 2026",mixed
+Q088,Mortality & Life Stats,Life Expectancy,According to WHO what is the average lifespan in Pakistan as of 2021?,66.0,66.0,years,WHO GHO,Medium,"May 13, 2026",mixed
+Q089,Mortality & Life Stats,Life Expectancy,What is the current life expectancy at birth in Bangladesh according to World Bank (2024)?,74.9,74.9,years,World Bank,Easy,"May 13, 2026",mixed
+Q090,Mortality & Life Stats,Life Expectancy,How many years does an average person in Bangladesh live according to World Bank data (2024)?,74.9,74.9,years,World Bank,Easy,"May 13, 2026",mixed
+Q091,Mortality & Life Stats,Life Expectancy,"According to World Bank, what is Bangladesh's life expectancy figure for 2024?",74.9,74.9,years,World Bank,Medium,"May 13, 2026",mixed
+Q092,Mortality & Life Stats,Life Expectancy,What is the life expectancy at birth in Bangladesh according to WHO data (2021)?,73.1,73.1,years,WHO GHO,Easy,"May 13, 2026",mixed
+Q093,Mortality & Life Stats,Life Expectancy,According to WHO what is the average lifespan in Bangladesh as of 2021?,73.1,73.1,years,WHO GHO,Medium,"May 13, 2026",mixed
+Q094,Mortality & Life Stats,Mortality Rates,"What is India's infant mortality rate per 1,000 live births according to World Bank (2024)?",23.3,23.3,per 1000 live births,World Bank,Medium,"May 13, 2026",mixed
+Q095,Mortality & Life Stats,Mortality Rates,"How many infants die per 1,000 live births in India according to World Bank (2024)?",23.3,23.3,per 1000 live births,World Bank,Medium,"May 13, 2026",mixed
+Q096,Mortality & Life Stats,Mortality Rates,"According to World Bank data for 2024, what is India's infant mortality figure?",23.3,23.3,per 1000 live births,World Bank,Hard,"May 13, 2026",mixed
+Q097,Mortality & Life Stats,Mortality Rates,"What is India's under-5 child mortality rate per 1,000 live births (2024)?",26.6,26.6,per 1000 live births,World Bank,Medium,"May 13, 2026",mixed
+Q098,Mortality & Life Stats,Mortality Rates,"How many children under age 5 die per 1,000 live births in India (2024)?",26.6,26.6,per 1000 live births,World Bank,Medium,"May 13, 2026",mixed
+Q099,Mortality & Life Stats,Mortality Rates,According to World Bank what is India's under-5 mortality rate for 2024?,26.6,26.6,per 1000 live births,World Bank,Hard,"May 13, 2026",mixed
+Q100,Mortality & Life Stats,Mortality Rates,"What is India's maternal mortality ratio per 100,000 live births according to WHO (2023)?",27.8,27.8,"per 100,000 live births",WHO GHO,Medium,"May 13, 2026",mixed
+Q101,Mortality & Life Stats,Mortality Rates,"How many mothers die per 100,000 live births in India according to WHO (2023)?",27.8,27.8,"per 100,000 live births",WHO GHO,Medium,"May 13, 2026",mixed
+Q102,Mortality & Life Stats,Mortality Rates,According to WHO data for 2023 what is India's maternal death ratio?,27.8,27.8,"per 100,000 live births",WHO GHO,Hard,"May 13, 2026",mixed
+Q103,Mortality & Life Stats,Mortality Rates,What is the infant mortality rate in China according to WHO (2023)?,16.2,16.2,per 1000,WHO GHO,Medium,"May 13, 2026",mixed
+Q104,Mortality & Life Stats,Mortality Rates,"How many infants per 1,000 live births die in China according to WHO (2023)?",16.2,16.2,per 1000,WHO GHO,Medium,"May 13, 2026",mixed
+Q105,Mortality & Life Stats,Mortality Rates,What is the infant mortality rate in USA according to WHO (2023)?,16.6,16.6,per 1000,WHO GHO,Medium,"May 13, 2026",mixed
+Q106,Mortality & Life Stats,Mortality Rates,"How many infants per 1,000 live births die in USA according to WHO (2023)?",16.6,16.6,per 1000,WHO GHO,Medium,"May 13, 2026",mixed
+Q107,Mortality & Life Stats,Mortality Rates,What is the infant mortality rate in Brazil according to WHO (2023)?,66.9,66.9,per 1000,WHO GHO,Medium,"May 13, 2026",mixed
+Q108,Mortality & Life Stats,Mortality Rates,"How many infants per 1,000 live births die in Brazil according to WHO (2023)?",66.9,66.9,per 1000,WHO GHO,Medium,"May 13, 2026",mixed
+Q109,Mortality & Life Stats,Mortality Rates,What is the maternal mortality ratio in Bangladesh according to WHO (2023)?,32.6,32.6,"per 100,000",WHO GHO,Medium,"May 13, 2026",mixed
+Q110,Healthcare Infrastructure,Hospital Resources,"How many hospital beds per 1,000 population does India have according to World Bank (2021)?",1.59,1.59,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q111,Healthcare Infrastructure,Hospital Resources,"What is India's hospital bed density per 1,000 people according to World Bank (2021)?",1.59,1.59,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q112,Healthcare Infrastructure,Hospital Resources,"According to World Bank data for 2021 how many hospital beds per 1,000 does India have?",1.59,1.59,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q113,Healthcare Infrastructure,Hospital Resources,"How many hospital beds per 1,000 population does China have according to World Bank (2023)?",5.63,5.63,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q114,Healthcare Infrastructure,Hospital Resources,"What is China's hospital bed density per 1,000 people according to World Bank (2023)?",5.63,5.63,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q115,Healthcare Infrastructure,Hospital Resources,"According to World Bank data for 2023 how many hospital beds per 1,000 does China have?",5.63,5.63,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q116,Healthcare Infrastructure,Hospital Resources,"How many hospital beds per 1,000 population does USA have according to World Bank (2022)?",2.68,2.68,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q117,Healthcare Infrastructure,Hospital Resources,"What is USA's hospital bed density per 1,000 people according to World Bank (2022)?",2.68,2.68,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q118,Healthcare Infrastructure,Hospital Resources,"According to World Bank data for 2022 how many hospital beds per 1,000 does USA have?",2.68,2.68,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q119,Healthcare Infrastructure,Hospital Resources,"How many hospital beds per 1,000 population does UK have according to World Bank (2022)?",2.42,2.42,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q120,Healthcare Infrastructure,Hospital Resources,"What is UK's hospital bed density per 1,000 people according to World Bank (2022)?",2.42,2.42,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q121,Healthcare Infrastructure,Hospital Resources,"According to World Bank data for 2022 how many hospital beds per 1,000 does UK have?",2.42,2.42,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q122,Healthcare Infrastructure,Hospital Resources,"How many hospital beds per 1,000 population does Pakistan have according to World Bank (2020)?",0.63,0.63,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q123,Healthcare Infrastructure,Hospital Resources,"What is Pakistan's hospital bed density per 1,000 people according to World Bank (2020)?",0.63,0.63,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q124,Healthcare Infrastructure,Hospital Resources,"According to World Bank data for 2020 how many hospital beds per 1,000 does Pakistan have?",0.63,0.63,beds per 1000,World Bank,Hard,"May 13, 2026",mixed
+Q125,Healthcare Infrastructure,Medical Workforce,"What is the number of physicians per 1,000 people in India according to World Bank (2020)?",0.723,0.723,per 1000 people,World Bank,Hard,"May 13, 2026",mixed
+Q126,Healthcare Infrastructure,Medical Workforce,"How many doctors per 1,000 population does India have according to World Bank (2020)?",0.723,0.723,per 1000 people,World Bank,Hard,"May 13, 2026",mixed
+Q127,Healthcare Infrastructure,Medical Workforce,"According to World Bank what is India's physician density per 1,000 people for 2020?",0.723,0.723,per 1000 people,World Bank,Hard,"May 13, 2026",mixed
+Q128,Healthcare Infrastructure,Health Spending,What percentage of its GDP does India spend on healthcare according to World Bank (2023)?,3.34,3.34,% of GDP,World Bank,Medium,"May 13, 2026",mixed
+Q129,Healthcare Infrastructure,Health Spending,What is India's healthcare expenditure as a percentage of GDP according to World Bank (2023)?,3.34,3.34,% of GDP,World Bank,Medium,"May 13, 2026",mixed
+Q130,Healthcare Infrastructure,Health Spending,According to World Bank for 2023 how much of India's GDP goes to health spending?,3.34,3.34,% of GDP,World Bank,Hard,"May 13, 2026",mixed
+Q131,Healthcare Infrastructure,Health Spending,What percentage of its GDP does the USA spend on healthcare according to World Bank (2023)?,16.69,16.69,% of GDP,World Bank,Medium,"May 13, 2026",mixed
+Q132,Healthcare Infrastructure,Health Spending,What is the USA's health expenditure as a share of GDP according to World Bank (2023)?,16.69,16.69,% of GDP,World Bank,Medium,"May 13, 2026",mixed
+Q133,Healthcare Infrastructure,Disease Burden,"What is India's tuberculosis incidence rate per 100,000 population according to World Bank (2024)?",187.0,187.0,"per 100,000",World Bank,Hard,"May 13, 2026",mixed
+Q134,Healthcare Infrastructure,Disease Burden,"How many new TB cases per 100,000 people does India report according to World Bank (2024)?",187.0,187.0,"per 100,000",World Bank,Hard,"May 13, 2026",mixed
+Q135,Healthcare Infrastructure,Disease Burden,"According to World Bank what is India's TB burden per 100,000 people for 2024?",187.0,187.0,"per 100,000",World Bank,Hard,"May 13, 2026",mixed
+Q136,Vaccination & Prevention,Coverage Rates,What percentage of children in India are vaccinated against measles according to World Bank (2024)?,97.0,97.0,percentage,World Bank,Medium,"May 13, 2026",mixed
+Q137,Vaccination & Prevention,Coverage Rates,What is India's measles immunization coverage rate among children according to World Bank (2024)?,97.0,97.0,percentage,World Bank,Medium,"May 13, 2026",mixed
+Q138,Vaccination & Prevention,Coverage Rates,According to World Bank for 2024 what is India's measles vaccination coverage?,97.0,97.0,percentage,World Bank,Hard,"May 13, 2026",mixed
+Q139,Vaccination & Prevention,Coverage Rates,What percentage of children in China are vaccinated against measles according to World Bank (2024)?,95.0,95.0,percentage,World Bank,Medium,"May 13, 2026",mixed
+Q140,Vaccination & Prevention,Coverage Rates,What is China's measles immunization coverage rate among children according to World Bank (2024)?,95.0,95.0,percentage,World Bank,Medium,"May 13, 2026",mixed
+Q141,Vaccination & Prevention,Coverage Rates,According to World Bank for 2024 what is China's measles vaccination coverage?,95.0,95.0,percentage,World Bank,Hard,"May 13, 2026",mixed
+Q142,Vaccination & Prevention,Coverage Rates,What percentage of children in Bangladesh are vaccinated against measles according to World Bank (2024)?,96.0,96.0,percentage,World Bank,Medium,"May 13, 2026",mixed
+Q143,Vaccination & Prevention,Coverage Rates,What is Bangladesh's measles immunization coverage rate among children according to World Bank (2024)?,96.0,96.0,percentage,World Bank,Medium,"May 13, 2026",mixed
+Q144,Vaccination & Prevention,Coverage Rates,According to World Bank for 2024 what is Bangladesh's measles vaccination coverage?,96.0,96.0,percentage,World Bank,Hard,"May 13, 2026",mixed
+Q145,Vaccination & Prevention,Coverage Rates,What is the DPT vaccination coverage rate among children in India according to World Bank (2024)?,94.0,94.0,percentage,World Bank,Hard,"May 13, 2026",mixed
+Q146,Vaccination & Prevention,Coverage Rates,What percentage of Indian children receive the DPT vaccine according to World Bank (2024)?,94.0,94.0,percentage,World Bank,Hard,"May 13, 2026",mixed
+Q147,Vaccination & Prevention,Coverage Rates,According to World Bank for 2024 what is India's DPT immunization rate?,94.0,94.0,percentage,World Bank,Hard,"May 13, 2026",mixed
+Q148,India vs Global,Infrastructure,"Which country has more hospital beds per 1,000 population — India or China?",China,China (5.63) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q149,India vs Global,Infrastructure,"Between India and China which has higher hospital bed density per 1,000 people?",China,China (5.63) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q150,India vs Global,Infrastructure,"Does India or China have more hospital beds available per 1,000 population?",China,China (5.63) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q151,India vs Global,Infrastructure,"Which country has more hospital beds per 1,000 population — India or USA?",USA,USA (2.68) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q152,India vs Global,Infrastructure,"Between India and USA which has higher hospital bed density per 1,000 people?",USA,USA (2.68) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q153,India vs Global,Infrastructure,"Does India or USA have more hospital beds available per 1,000 population?",USA,USA (2.68) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q154,India vs Global,Infrastructure,"Which country has more hospital beds per 1,000 population — India or UK?",UK,UK (2.42) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q155,India vs Global,Infrastructure,"Between India and UK which has higher hospital bed density per 1,000 people?",UK,UK (2.42) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q156,India vs Global,Infrastructure,"Does India or UK have more hospital beds available per 1,000 population?",UK,UK (2.42) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q157,India vs Global,Infrastructure,"Which country has more hospital beds per 1,000 population — India or Pakistan?",India,Pakistan (0.63) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q158,India vs Global,Infrastructure,"Between India and Pakistan which has higher hospital bed density per 1,000 people?",India,Pakistan (0.63) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q159,India vs Global,Infrastructure,"Does India or Pakistan have more hospital beds available per 1,000 population?",India,Pakistan (0.63) vs India (1.59),country name,World Bank,Easy,"May 13, 2026",mixed
+Q160,India vs Global,Life Expectancy,Which country has higher life expectancy — India or China?,China,China (78.017) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q161,India vs Global,Life Expectancy,Between India and China which country has a longer average lifespan?,China,China (78.017) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q162,India vs Global,Life Expectancy,Does India or China have a higher life expectancy at birth?,China,China (78.017) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q163,India vs Global,Life Expectancy,Which country has higher life expectancy — India or USA?,USA,USA (78.89) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q164,India vs Global,Life Expectancy,Between India and USA which country has a longer average lifespan?,USA,USA (78.89) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q165,India vs Global,Life Expectancy,Does India or USA have a higher life expectancy at birth?,USA,USA (78.89) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q166,India vs Global,Life Expectancy,Which country has higher life expectancy — India or UK?,UK,UK (81.387) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q167,India vs Global,Life Expectancy,Between India and UK which country has a longer average lifespan?,UK,UK (81.387) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q168,India vs Global,Life Expectancy,Does India or UK have a higher life expectancy at birth?,UK,UK (81.387) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q169,India vs Global,Life Expectancy,Which country has higher life expectancy — India or Pakistan?,India,Pakistan (67.799) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q170,India vs Global,Life Expectancy,Between India and Pakistan which country has a longer average lifespan?,India,Pakistan (67.799) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q171,India vs Global,Life Expectancy,Does India or Pakistan have a higher life expectancy at birth?,India,Pakistan (67.799) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q172,India vs Global,Life Expectancy,Which country has higher life expectancy — India or Bangladesh?,Bangladesh,Bangladesh (74.93) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q173,India vs Global,Life Expectancy,Between India and Bangladesh which country has a longer average lifespan?,Bangladesh,Bangladesh (74.93) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q174,India vs Global,Life Expectancy,Does India or Bangladesh have a higher life expectancy at birth?,Bangladesh,Bangladesh (74.93) vs India (72.235),country name,World Bank,Easy,"May 13, 2026",mixed
+Q175,India vs Global,Mortality,Which country has a lower infant mortality rate — India or China?,China,China (16.25) vs India (23.3),country name,WHO/World Bank,Medium,"May 13, 2026",mixed
+Q176,India vs Global,Mortality,"Between India and China which has fewer infant deaths per 1,000 live births?",China,China (16.25) vs India (23.3),country name,WHO/World Bank,Medium,"May 13, 2026",mixed
+Q177,India vs Global,Mortality,Does India or China have a better infant survival rate?,China,China (16.25) vs India (23.3),country name,WHO/World Bank,Medium,"May 13, 2026",mixed
+Q178,India vs Global,Mortality,Which country has a lower infant mortality rate — India or USA?,USA,USA (16.63) vs India (23.3),country name,WHO/World Bank,Medium,"May 13, 2026",mixed
+Q179,India vs Global,Mortality,"Between India and USA which has fewer infant deaths per 1,000 live births?",USA,USA (16.63) vs India (23.3),country name,WHO/World Bank,Medium,"May 13, 2026",mixed
+Q180,India vs Global,Mortality,Does India or USA have a better infant survival rate?,USA,USA (16.63) vs India (23.3),country name,WHO/World Bank,Medium,"May 13, 2026",mixed
+Q181,Hallucination Traps,Temporal,Is India's current life expectancy above or below 70 years according to World Bank?,Above 70,Above 70 — actual value: 72.235,above/below 70,World Bank,Easy,"May 13, 2026",trap
+Q182,Hallucination Traps,Temporal,Has India's life expectancy crossed 75 years yet according to World Bank latest data?,No,No — actual value: 72.2,yes/no,World Bank,Medium,"May 13, 2026",trap
+Q183,Hallucination Traps,Factual,Has India achieved above 90% measles vaccination coverage according to World Bank?,Yes,Yes — actual value: 97.0%,yes/no,World Bank,Easy,"May 13, 2026",trap
+Q184,Hallucination Traps,Factual,"Does India have more than 100 TB cases per 100,000 population according to World Bank?",Yes,"Yes — actual: 187.0 per 100,000",yes/no,World Bank,Medium,"May 13, 2026",trap
+Q185,Hallucination Traps,Comparison,Does India have higher life expectancy than Pakistan according to World Bank?,Yes,India (72.235) vs Pakistan (67.799),yes/no,World Bank,Easy,"May 13, 2026",trap
+Q186,Hallucination Traps,Comparison,"Does India have more hospital beds per 1,000 people than China?",No,India (1.59) vs China (5.63),yes/no,World Bank,Easy,"May 13, 2026",trap
+Q187,Hallucination Traps,Numerical,"Does India have more than 2 hospital beds per 1,000 population?",No,No — actual: 1.59,yes/no,World Bank,Medium,"May 13, 2026",trap
+Q188,Hallucination Traps,Numerical,"Is India's hospital bed density above 3 per 1,000 population?",No,No — actual: 1.59,yes/no,World Bank,Medium,"May 13, 2026",trap
+Q189,Hallucination Traps,Numerical,Does the USA spend more than 15% of its GDP on healthcare?,Yes,Yes — actual: 16.69%,yes/no,World Bank,Medium,"May 13, 2026",trap
+Q190,Hallucination Traps,Numerical,Does India spend more than 5% of its GDP on healthcare?,No,No — actual: 3.34%,yes/no,World Bank,Medium,"May 13, 2026",trap
+Q191,Hallucination Traps,Numerical,"Is India's infant mortality rate below 30 per 1,000 live births according to World Bank?",Yes,Yes — actual: 23.3,yes/no,World Bank,Medium,"May 13, 2026",trap
+Q192,Hallucination Traps,Comparison,Is India's infant mortality rate higher than USA's?,Yes,India (23.3) vs USA (16.63),yes/no,World Bank,Medium,"May 13, 2026",trap
+Q193,Ranking Questions,Disease Cases,"Which country has the highest total disease case count as of May 13, 2026?",USA,"USA with 111,820,082 cases",country name,disease.sh,Medium,"May 13, 2026",mixed
+Q194,Ranking Questions,Disease Cases,"Which country ranks second in total disease cases globally as of May 13, 2026?",India,"India with 45,035,393 cases",country name,disease.sh,Hard,"May 13, 2026",mixed
+Q195,Ranking Questions,Disease Cases,"Which country ranks third in total disease cases globally as of May 13, 2026?",France,"France with 40,138,560 cases",country name,disease.sh,Hard,"May 13, 2026",mixed
+Q196,Ranking Questions,Disease Cases,"Which country among USA, India, Brazil has the most disease cases as of May 13, 2026?",USA,"Based on: USA=111,820,082, India=45,035,393, Brazil=38,743,918",country name,disease.sh,Medium,"May 13, 2026",mixed
+Q197,Ranking Questions,Disease Cases,"Between France and Germany which country has more total disease cases as of May 13, 2026?",France,"France=40,138,560, Germany=38,828,995",country name,disease.sh,Medium,"May 13, 2026",mixed
+Q198,Ranking Questions,Disease Cases,"Between UK and Russia which country has more total disease cases as of May 13, 2026?",UK,"UK=24,910,387, Russia=24,124,215",country name,disease.sh,Medium,"May 13, 2026",mixed
+Q199,Ranking Questions,Disease Deaths,"Which country has the highest disease death toll among USA, India, Brazil, UK, Russia as of May 13, 2026?",USA,"USA with 1,219,487 deaths",country name,disease.sh,Medium,"May 13, 2026",mixed
+Q200,Ranking Questions,Disease Deaths,"Between India and Brazil which country has more disease deaths as of May 13, 2026?",Brazil,"India=533,570, Brazil=711,380",country name,disease.sh,Medium,"May 13, 2026",mixed
+Q201,Ranking Questions,Healthcare Infrastructure,"Which country among India, China, USA, UK, Pakistan has the most hospital beds per 1,000 population?",China,China with 5.63 beds per 1000,country name,World Bank,Hard,"May 13, 2026",mixed
+Q202,Ranking Questions,Healthcare Infrastructure,"Which country among India, China, USA, UK, Pakistan has the fewest hospital beds per 1,000 population?",Pakistan,Pakistan with 0.63 beds per 1000,country name,World Bank,Hard,"May 13, 2026",mixed
+Q203,Ranking Questions,Life Expectancy,"Which country among India, China, USA, UK, Pakistan, Bangladesh has the highest life expectancy?",UK,UK with 81.387 years,country name,World Bank,Medium,"May 13, 2026",mixed
+Q204,Ranking Questions,Life Expectancy,"Which country among India, China, USA, UK, Pakistan, Bangladesh has the lowest life expectancy?",Pakistan,Pakistan with 67.799 years,country name,World Bank,Medium,"May 13, 2026",mixed
+Q205,Historical Questions,Life Expectancy,What was India's life expectancy at birth in 2019 according to WHO?,69.7,69.7,years,WHO Historical,Easy,"May 13, 2026",historical
+Q206,Historical Questions,Life Expectancy,"According to WHO data, what was the average lifespan in India in 2019?",69.7,69.7,years,WHO Historical,Easy,"May 13, 2026",historical
+Q207,Historical Questions,Life Expectancy,What was India's life expectancy in 2020 according to WHO data?,70.2,70.2,years,WHO Historical,Easy,"May 13, 2026",historical
+Q208,Historical Questions,Life Expectancy,What was China's life expectancy in 2019 according to WHO?,77.4,77.4,years,WHO Historical,Easy,"May 13, 2026",historical
+Q209,Historical Questions,Life Expectancy,"According to WHO, what was the life expectancy in China in 2020?",77.9,77.9,years,WHO Historical,Easy,"May 13, 2026",historical
+Q210,Historical Questions,Life Expectancy,What was the life expectancy in the United States in 2019?,78.9,78.9,years,WHO Historical,Easy,"May 13, 2026",historical
+Q211,Historical Questions,Life Expectancy,According to WHO what was USA's life expectancy in 2020?,77.0,77.0,years,WHO Historical,Easy,"May 13, 2026",historical
+Q212,Historical Questions,Life Expectancy,What was Brazil's life expectancy in 2019?,75.9,75.9,years,WB Historical,Easy,"May 13, 2026",historical
+Q213,Historical Questions,Life Expectancy,What was the life expectancy in the United Kingdom in 2019?,81.3,81.3,years,WB Historical,Easy,"May 13, 2026",historical
+Q214,Historical Questions,Life Expectancy,What was Pakistan's life expectancy in 2019 according to WHO?,67.3,67.3,years,WB Historical,Easy,"May 13, 2026",historical
+Q215,Historical Questions,Mortality,What was India's infant mortality rate per 1000 live births in 2019?,30.0,30.0,per 1000,WB Historical,Medium,"May 13, 2026",historical
+Q216,Historical Questions,Mortality,How many infants per 1000 live births died in India in 2019?,30.0,30.0,per 1000,WB Historical,Medium,"May 13, 2026",historical
+Q217,Historical Questions,Mortality,What was India's infant mortality rate in 2020 according to World Bank?,28.0,28.0,per 1000,WB Historical,Medium,"May 13, 2026",historical
+Q218,Historical Questions,Mortality,According to World Bank what was India's infant mortality rate in 2021?,25.5,25.5,per 1000,WB Historical,Medium,"May 13, 2026",historical
+Q219,Historical Questions,Vaccination,What was India's measles vaccination coverage among children in 2019?,91.0,91.0,percentage,WB Historical,Medium,"May 13, 2026",historical
+Q220,Historical Questions,Vaccination,What percentage of Indian children were vaccinated against measles in 2020?,87.0,87.0,percentage,WB Historical,Medium,"May 13, 2026",historical
+Q221,Historical Questions,Vaccination,According to World Bank what was India's measles vaccination rate in 2021?,89.0,89.0,percentage,WB Historical,Medium,"May 13, 2026",historical
+Q222,Historical Questions,Disease Burden,"What was India's tuberculosis incidence rate per 100,000 population in 2019?",193.0,193.0,per 100k,WB Historical,Hard,"May 13, 2026",historical
+Q223,Historical Questions,Disease Burden,"How many new TB cases per 100,000 people did India report in 2020?",188.0,188.0,per 100k,WB Historical,Hard,"May 13, 2026",historical
+Q224,Historical Questions,Infrastructure,How many hospital beds per 1000 population did China have in 2019?,4.34,4.34,per 1000,WB Historical,Hard,"May 13, 2026",historical
+Q225,Historical Questions,Infrastructure,What was the hospital bed density per 1000 people in the USA in 2019?,2.77,2.77,per 1000,WB Historical,Hard,"May 13, 2026",historical
+Q226,Historical Questions,Infrastructure,How many hospital beds per 1000 people did the UK have in 2019?,2.5,2.5,per 1000,WB Historical,Hard,"May 13, 2026",historical
+Q227,Historical Questions,COVID Historical,How many deaths were attributed to COVID-19 globally in the year 2020?,1813188,"1,813,188",deaths,WHO Historical,Medium,"May 13, 2026",historical
+Q228,Historical Questions,COVID Historical,What was the global COVID-19 death toll for the year 2021?,3536000,"3,536,000",deaths,WHO Historical,Medium,"May 13, 2026",historical
+Q229,Historical Questions,COVID Historical,How many total COVID-19 cases did India record by end of 2021?,34855802,"34,855,802",cases,WHO Historical,Medium,"May 13, 2026",historical
+Q230,Historical Questions,COVID Historical,What was India's total COVID-19 death count by end of 2021?,481486,"481,486",deaths,WHO Historical,Medium,"May 13, 2026",historical

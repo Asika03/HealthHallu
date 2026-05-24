@@ -1,0 +1,18 @@
+check_id,check_name,status,detail,affected_rows
+V1,Row count integrity,PASS,4140 == 18 models × 230 questions,0
+V2,Column completeness [summary],PASS,All required columns present,0
+V2,Column completeness [detail],PASS,All required columns present,0
+V2,Column completeness [category],PASS,All required columns present,0
+V3,Status enum values,PASS,"All values in {'refusal', 'partial', 'hallucinated', 'correct', 'error'}",0
+V4,Count totals sum correctly,PASS,correct+partial+hallucinated+refusal+error == total_questions for all models,0
+V5,"Rate bounds [0,1]",PASS,All rates within valid range,0
+V6,Hallucination rate formula,PASS,hallucinated / valid_numeric_attempts matches for all models,0
+V7,Accuracy rate formula,PASS,correct / valid_numeric_attempts matches for all models,0
+V8,Response rate formula,PASS,(total - error) / total matches for all models,0
+V9,Year-token false positives,FIX,"48 rows extracted year '2026' from question text, not answer. Models: {'Qwen3_32B': 36, 'NVIDIA_Nemotron_120B': 6, 'LiquidAI_Instruct': 6}. Reclassifying as 'refusal'.",48
+V10,Zero-coverage models,WARN,"Models with 0 numeric answers (rates are N/A): ['OpenAI_OSS_20B', 'Gemma_4_31B', 'Baidu_CoBuddy', 'OSS_Safeguard_20B']",4
+V11,Category coverage,WARN,87 category rows have 0 valid attempts (will be flagged as insufficient_data in output),87
+V12,Correct rows rel_error ≤ 0.10,PASS,All 566 correct rows have rel_error ≤ 0.10,0
+V13,Hallucinated rows rel_error > 0.50,PASS,All 442 hallucinated rows have rel_error > 0.50,0
+V14,"Partial rows rel_error in (0.10, 0.50]",PASS,All 166 partial rows have rel_error in correct range,0
+V15,Cross-file model set,PASS,"Same models in summary, detail, and category files",0

@@ -1,0 +1,77 @@
+{
+  "total_models": 14,
+  "groq_models": [
+    {
+      "name": "LLaMA 3.3 70B",
+      "model_id": "llama-3.3-70b-versatile",
+      "provider": "groq"
+    },
+    {
+      "name": "LLaMA 3.1 8B",
+      "model_id": "llama-3.1-8b-instant",
+      "provider": "groq"
+    },
+    {
+      "name": "LLaMA 4 Scout 17B",
+      "model_id": "meta-llama/llama-4-scout-17b-16e-instruct",
+      "provider": "groq"
+    },
+    {
+      "name": "Qwen3 32B",
+      "model_id": "qwen/qwen3-32b",
+      "provider": "groq"
+    },
+    {
+      "name": "OpenAI OSS 20B",
+      "model_id": "openai/gpt-oss-20b",
+      "provider": "groq"
+    }
+  ],
+  "openrouter_models": [
+    {
+      "name": "NVIDIA Nemotron 120B",
+      "model_id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "provider": "openrouter"
+    },
+    {
+      "name": "OpenAI OSS 120B",
+      "model_id": "openai/gpt-oss-120b:free",
+      "provider": "openrouter"
+    },
+    {
+      "name": "Gemma 4 31B",
+      "model_id": "google/gemma-4-31b-it:free",
+      "provider": "openrouter"
+    },
+    {
+      "name": "MiniMax M2.5",
+      "model_id": "minimax/minimax-m2.5:free",
+      "provider": "openrouter"
+    },
+    {
+      "name": "Baidu CoBuddy",
+      "model_id": "baidu/cobuddy:free",
+      "provider": "openrouter"
+    },
+    {
+      "name": "LiquidAI Instruct",
+      "model_id": "liquid/lfm-2.5-1.2b-instruct:free",
+      "provider": "openrouter"
+    },
+    {
+      "name": "OpenAI OSS 20B OR",
+      "model_id": "openai/gpt-oss-20b:free",
+      "provider": "openrouter"
+    },
+    {
+      "name": "Owl Alpha",
+      "model_id": "openrouter/owl-alpha",
+      "provider": "openrouter"
+    },
+    {
+      "name": "Free Router",
+      "model_id": "openrouter/free",
+      "provider": "openrouter"
+    }
+  ]
+}

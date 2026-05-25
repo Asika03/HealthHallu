@@ -4,7 +4,7 @@ We put 14 of the most widely used large language models to the test.
 230 real health questions. Real data. No hints.
 The results were alarming.
 
----
+
 
 ## What This Project Does
 
@@ -12,7 +12,7 @@ This project is a systematic benchmarking study that measures how accurately and
 
 This is not a theoretical evaluation. The questions ask things like how many COVID cases were recorded globally this week, what is the current life expectancy in a given country, or what percentage of children are vaccinated against measles in a specific region. These are questions that real users ask AI tools every day. The answers matter.
 
----
+
 
 ## Data Sources
 

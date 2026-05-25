@@ -22,7 +22,7 @@ All ground truth answers were pulled in real time from three authoritative sourc
 - World Health Organization API - mortality, life expectancy, healthcare infrastructure
 - World Bank API - vaccination coverage, health system indicators
 
----
+
 
 ## Models Tested
 
@@ -30,7 +30,7 @@ All ground truth answers were pulled in real time from three authoritative sourc
 
 LLaMA 4 Scout, MiniMax M2.5, Allam 2 7B, LLaMA 3.3 70B, LLaMA 3.1 8B, OSS 120B, Free Router, OSS 20B-OR, Owl Alpha, Groq Compound, Groq Mini, Nemotron 120B, LiquidAI Instruct, Qwen3 32B
 
----
+
 
 ## Scoring System
 
@@ -42,7 +42,7 @@ Every response was evaluated and classified into one of five outcomes.
 - Refusal: the model declined to answer
 - Error: the API did not return a usable response
 
----
+
 
 ## Question Categories
 
@@ -54,7 +54,7 @@ Questions were distributed across five domains to test whether model performance
 - Vaccination and Prevention: immunization coverage rates, vaccine rollout data
 - Historical Questions: past epidemic statistics, historical health milestones
 
----
+
 
 ## Headline Results
 
@@ -66,7 +66,7 @@ Out of 3,220 possible responses across 14 models and 230 questions, only 1,174 w
 - Models tested: 14
 - Questions per model: 230
 
----
+
 
 ## Model Rankings
 
@@ -87,7 +87,7 @@ Out of 3,220 possible responses across 14 models and 230 questions, only 1,174 w
 | 13 | LiquidAI Instruct | 90.0% | 0.0% | 7.4% |
 | 14 | Qwen3 32B | 100.0% | 0.0% | 73.0% |
 
----
+
 
 ## Three Novel Metrics Introduced
 
@@ -99,7 +99,7 @@ Refusal Intelligence Score measures whether a model knows the limits of its own 
 
 Model Reliability Score combines both accuracy and hallucination into a single deployability metric. Formula: accuracy rate minus hallucination rate. A positive score means the model is more helpful than harmful. A negative score means the opposite.
 
----
+
 
 ## Key Findings
 
@@ -115,7 +115,7 @@ Finding 3: No current model is fully reliable for real-time health data.
 
 Even the best performing models hallucinate around 20% of the time on numeric health questions. MiniMax M2.5 at 19.7% and LLaMA 4 Scout at 16.8% are the strongest performers but still fall short of the reliability threshold required for clinical or public health deployment. This gap represents the current ceiling of LLM capability on live factual data and makes a strong case for always validating AI outputs against authoritative sources.
 
----
+
 
 ## Project Structure
 
@@ -129,7 +129,7 @@ Even the best performing models hallucinate around 20% of the time on numeric he
 - validate.py: Scores each response against the verified real-world value
 - working_models.json: Registry of confirmed working model API endpoints
 
----
+
 
 ## Dashboard
 
@@ -141,7 +141,7 @@ Tab 2 Model Analysis shows overall model performance with hallucination rate tre
 
 Live URL: https://health-hallu-yq55.vercel.app
 
----
+
 
 ## How to Run Locally
 
@@ -156,13 +156,13 @@ pip install -r requirements.txt
 python test_models.py
 python validate.py
 
----
+
 
 ## Conclusion
 
 The central message of this project is that AI models cannot yet be trusted as standalone sources for real-time health statistics. Nearly half of all numeric answers given were fabricated. The models that performed best did so by combining reasonable accuracy with appropriate refusal behaviour. Until hallucination rates fall significantly below 10% on real-time factual data, AI outputs in health contexts must always be cross-checked against verified live data sources.
 
----
+
 
 ## Author
 
